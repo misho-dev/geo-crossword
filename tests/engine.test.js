@@ -11,7 +11,7 @@ import {
 } from "../js/keyboard.js";
 const puzzle = JSON.parse(
   fs.readFileSync(
-    new URL("../data/puzzles/original-001.json", import.meta.url),
+    new URL("../data/puzzles/ambebi-68.json", import.meta.url),
   ),
 );
 const make = () => new CrosswordEngine(structuredClone(puzzle));

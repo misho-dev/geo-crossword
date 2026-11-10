@@ -7,7 +7,7 @@ import { newRecord } from "../js/storage.js";
 import { recordCompletion, statistics } from "../js/statistics.js";
 const puzzle = JSON.parse(
   fs.readFileSync(
-    new URL("../data/puzzles/original-001.json", import.meta.url),
+    new URL("../data/puzzles/ambebi-68.json", import.meta.url),
   ),
 );
 const make = () => new CrosswordEngine(structuredClone(puzzle));
