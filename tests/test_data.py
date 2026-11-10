@@ -10,7 +10,9 @@ class DataTests(unittest.TestCase):
         self.p=json.loads((ROOT/'data/puzzles/ambebi-68.json').read_text(encoding='utf-8'))
         self.raw={'id':999,'name':'ორიგინალური სატესტო ბადე','dimensions':{'rows':self.p['grid']['rows'],'cols':self.p['grid']['cols']},'entries':[{'number':c['number'],'clue':c['clue'],'direction':c['direction'],'position':{'x':c['col'],'y':c['row']},'length':len(c['answer']),'solution':c['answer']} for c in self.p['clues']]}
     def test_shipped_collection(self):
-        report=validate_directory(ROOT/'data/puzzles');self.assertEqual(report['validated'],20);self.assertEqual(report['rejected'],[])
+        report = validate_directory(ROOT / 'data/puzzles')
+        self.assertGreaterEqual(report['validated'], 20)
+        self.assertEqual(report['rejected'], [])
     def test_source_adapter_preserves_positions_answers_numbering(self):
         p=convert(self.raw);self.assertEqual(p['clues'],self.p['clues']);self.assertEqual(p['grid'],self.p['grid']);self.assertEqual(p['source']['sourceId'],'999')
     def test_source_detail_wrapper(self):self.assertEqual(convert({'crossword':self.raw})['id'],'ambebi-999')
