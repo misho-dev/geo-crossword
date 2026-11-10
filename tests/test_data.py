@@ -7,7 +7,7 @@ ROOT=Path(__file__).resolve().parents[1]
 
 class DataTests(unittest.TestCase):
     def setUp(self):
-        self.p=json.loads((ROOT/'data/puzzles/original-002.json').read_text())
+        self.p=json.loads((ROOT/'data/puzzles/ambebi-68.json').read_text(encoding='utf-8'))
         self.raw={'id':999,'name':'ორიგინალური სატესტო ბადე','dimensions':{'rows':self.p['grid']['rows'],'cols':self.p['grid']['cols']},'entries':[{'number':c['number'],'clue':c['clue'],'direction':c['direction'],'position':{'x':c['col'],'y':c['row']},'length':len(c['answer']),'solution':c['answer']} for c in self.p['clues']]}
     def test_shipped_collection(self):
         report=validate_directory(ROOT/'data/puzzles');self.assertEqual(report['validated'],20);self.assertEqual(report['rejected'],[])
