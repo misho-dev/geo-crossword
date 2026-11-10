@@ -78,7 +78,7 @@ def main():
         clues,grid=layout(words,i*47)
         if len(clues)<6:raise ValueError(f'Too few entries in {title}')
         difficulty='easy' if i<=4 else 'medium' if i<=16 else 'hard'
-        p=dict(schemaVersion=1,id=f'original-{i:03d}',title=title,source=dict(website=None,url=None,sourceId=None,type='original',license='CC0-1.0',author='სიტყვანა'),extractedAt=None,createdAt='2026-11-10',difficulty=difficulty,category=category,grid=grid,clues=clues)
+        p=dict(schemaVersion=1,id=f'original-{i:03d}',title=title,source=dict(website=None,url=None,sourceId=None,type='original',license='CC0-1.0',author='კროსვორდი'),extractedAt=None,createdAt='2026-11-10',difficulty=difficulty,category=category,grid=grid,clues=clues)
         (target/f"{p['id']}.json").write_text(json.dumps(p,ensure_ascii=False,indent=2)+'\n')
         index.append({k:p[k] for k in ['id','title','difficulty','category']}|dict(rows=grid['rows'],cols=grid['cols'],clueCount=len(clues),cellCount=grid['rows']*grid['cols']-len(grid['blocked']),sourceType='original',estimatedMinutes=6 if difficulty=='easy' else 12 if difficulty=='medium' else 20))
     (target/'index.json').write_text(json.dumps(dict(schemaVersion=1,catalogVersion='originals-2026-11-10',calendarBasis='Asia/Tbilisi',puzzles=index),ensure_ascii=False,indent=2)+'\n')

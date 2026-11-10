@@ -420,7 +420,7 @@ function showCompletion() {
 }
 function shareResults() {
   if (!engine?.state.completed) return;
-  const text = `სიტყვანა ✦\n${engine.puzzle.title} · ${engine.puzzle.id.replace("original-", "№")}\n✓ ამოხსნილია · ${engine.score} ქულა\n◷ ${formatTime(engine.state.elapsedSeconds)} · ${engine.state.hintsUsed} მინიშნება\n${location.href}`;
+  const text = `კროსვორდი ✦\n${engine.puzzle.title} · ${engine.puzzle.id.replace("original-", "№")}\n✓ ამოხსნილია · ${engine.score} ქულა\n◷ ${formatTime(engine.state.elapsedSeconds)} · ${engine.state.hintsUsed} მინიშნება\n${location.href}`;
   if (navigator.clipboard?.writeText)
     navigator.clipboard
       .writeText(text)
@@ -531,7 +531,7 @@ function renderSettings() {
     .map(([l, g]) => `<span>${l}<b>${g}</b></span>`)
     .join(
       "",
-    )}</div></section><section class="settings-section"><h2>პროგრესი და სარეზერვო ასლი</h2><p class="fine-print">შედეგები ინახება ამ ბრაუზერსა და მოწყობილობაზე. ბრაუზერის მონაცემების წაშლისას ისინი შეიძლება დაიკარგოს. ექსპორტირებული ფაილით პროგრესს სხვა მოწყობილობაზეც გადაიტანთ.</p><div class="button-row"><button class="button secondary" data-action="export">პროგრესის ექსპორტი ↓</button><button class="button secondary" data-action="import">ფაილიდან აღდგენა ↑</button></div><input type="file" id="import-file" accept="application/json,.json" hidden><div class="button-row"><button class="text-button" data-action="reset-all" style="color:var(--red)">მთელი პროგრესის წაშლა</button></div></section><section class="settings-section"><h2>ინტერნეტის გარეშეც</h2><p class="fine-print">ადრე გახსნილი კროსვორდები ხელმისაწვდომია ინტერნეტის გარეშეც, როდესაც ბრაუზერში ოფლაინ მხარდაჭერა ჩაირთვება. მთელი კოლექციის ჩამოტვირთვის შემდეგ ნებისმიერი კროსვორდის ამოხსნას შეძლებთ.</p><div class="button-row"><button class="button secondary" data-action="cache-all" id="cache-button">ყველა კროსვორდის ჩამოტვირთვა</button></div><p class="fine-print" id="offline-status">${"serviceWorker" in navigator ? "დღის კროსვორდი და სერია ეფუძნება თბილისის კალენდარს." : "ამ ბრაუზერში ოფლაინ მხარდაჭერა მიუწვდომელია."}</p></section><section class="settings-section"><h2>სიტყვანას შესახებ</h2><p class="fine-print">კოლექციაში წარმოდგენილია ამ პროექტისთვის შექმნილი ორიგინალური კროსვორდები. თამაში არ აგზავნის თქვენს პროგრესს სერვერზე და არ იყენებს ანგარიშებსა თუ რეკლამას.</p><button class="text-button" data-action="scores">ქულების წესები →</button></section>`;
+    )}</div></section><section class="settings-section"><h2>პროგრესი და სარეზერვო ასლი</h2><p class="fine-print">შედეგები ინახება ამ ბრაუზერსა და მოწყობილობაზე. ბრაუზერის მონაცემების წაშლისას ისინი შეიძლება დაიკარგოს. ექსპორტირებული ფაილით პროგრესს სხვა მოწყობილობაზეც გადაიტანთ.</p><div class="button-row"><button class="button secondary" data-action="export">პროგრესის ექსპორტი ↓</button><button class="button secondary" data-action="import">ფაილიდან აღდგენა ↑</button></div><input type="file" id="import-file" accept="application/json,.json" hidden><div class="button-row"><button class="text-button" data-action="reset-all" style="color:var(--red)">მთელი პროგრესის წაშლა</button></div></section><section class="settings-section"><h2>ინტერნეტის გარეშეც</h2><p class="fine-print">ადრე გახსნილი კროსვორდები ხელმისაწვდომია ინტერნეტის გარეშეც, როდესაც ბრაუზერში ოფლაინ მხარდაჭერა ჩაირთვება. მთელი კოლექციის ჩამოტვირთვის შემდეგ ნებისმიერი კროსვორდის ამოხსნას შეძლებთ.</p><div class="button-row"><button class="button secondary" data-action="cache-all" id="cache-button">ყველა კროსვორდის ჩამოტვირთვა</button></div><p class="fine-print" id="offline-status">${"serviceWorker" in navigator ? "დღის კროსვორდი და სერია ეფუძნება თბილისის კალენდარს." : "ამ ბრაუზერში ოფლაინ მხარდაჭერა მიუწვდომელია."}</p></section><section class="settings-section"><h2>კროსვორდის შესახებ</h2><p class="fine-print">კოლექციაში წარმოდგენილია ამ პროექტისთვის შექმნილი ორიგინალური კროსვორდები. თამაში არ აგზავნის თქვენს პროგრესს სერვერზე და არ იყენებს ანგარიშებსა თუ რეკლამას.</p><button class="text-button" data-action="scores">ქულების წესები →</button></section>`;
   document.querySelector("#import-file").onchange = async (e) => {
     const f = e.target.files[0];
     if (!f) return;
@@ -932,9 +932,9 @@ async function route() {
       store.data.activePuzzleId = puzzle.id;
       save();
       gameHTML();
-      document.title = `${puzzle.title} — სიტყვანა`;
+      document.title = `${puzzle.title} — კროსვორდი`;
     } else {
-      document.title = "სიტყვანა — ქართული კროსვორდები";
+      document.title = "კროსვორდი — ქართული კროსვორდები";
       if (route.page === "home") home();
       else if (route.page === "statistics") renderStatistics();
       else if (route.page === "achievements") renderAchievements();

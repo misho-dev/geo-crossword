@@ -1,4 +1,4 @@
-# სიტყვანა — Georgian crossword game
+# კროსვორდი — Georgian crossword game
 
 A complete static, Georgian-language crossword application. HTML, CSS, native ES modules, JSON, `localStorage`, and a service worker. No framework, database, account, analytics, external fonts, or runtime API calls.
 
