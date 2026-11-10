@@ -38,9 +38,13 @@ test("deleting and retyping cannot farm points", () => {
 });
 test("rechecking unchanged incorrect word adds only one penalty", () => {
   const e = make();
-  e.state.cells[e.selected] = "ჰ";
+
+  const wrongLetter = e.solution[e.selected] === "ჰ" ? "ა" : "ჰ";
+  e.state.cells[e.selected] = wrongLetter;
+
   e.check();
   e.check();
+
   assert.equal(Object.keys(e.state.mistakeChecks).length, 1);
   assert.equal(e.score, 0);
 });
