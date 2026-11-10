@@ -1,0 +1,662 @@
+{
+  "schemaVersion": 1,
+  "id": "ambebi-20",
+  "title": "კროსვორდი № 20",
+  "source": {
+    "website": "ambebi.ge",
+    "url": "https://www.ambebi.ge/puzzle/crosswords/20/",
+    "sourceId": "20",
+    "type": "external",
+    "license": "permission-required",
+    "originalCreated": "14:19 / 19-04-2018"
+  },
+  "extractedAt": "2026-11-10T07:22:20.552761+00:00",
+  "difficulty": "hard",
+  "difficultyEstimated": true,
+  "grid": {
+    "rows": 14,
+    "cols": 14,
+    "blocked": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        10
+      ],
+      [
+        0,
+        12
+      ],
+      [
+        1,
+        7
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        10
+      ],
+      [
+        2,
+        12
+      ],
+      [
+        3,
+        7
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        9
+      ],
+      [
+        4,
+        10
+      ],
+      [
+        4,
+        12
+      ],
+      [
+        5,
+        3
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        6,
+        6
+      ],
+      [
+        6,
+        10
+      ],
+      [
+        6,
+        11
+      ],
+      [
+        6,
+        13
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        8,
+        11
+      ],
+      [
+        8,
+        13
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        9
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        9,
+        12
+      ],
+      [
+        10,
+        3
+      ],
+      [
+        10,
+        5
+      ],
+      [
+        10,
+        7
+      ],
+      [
+        11,
+        1
+      ],
+      [
+        11,
+        10
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        12,
+        3
+      ],
+      [
+        12,
+        5
+      ],
+      [
+        12,
+        7
+      ],
+      [
+        13,
+        1
+      ],
+      [
+        13,
+        8
+      ],
+      [
+        13,
+        10
+      ],
+      [
+        13,
+        12
+      ]
+    ]
+  },
+  "clues": [
+    {
+      "id": "3-across",
+      "number": 3,
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "clue": "მცენარე, რომლის წვენის ფერმენტული დუღილით მიიღება სასმელი ტეკილა",
+      "answer": "აგავა",
+      "length": 5
+    },
+    {
+      "id": "9-across",
+      "number": 9,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "clue": "სათაყვანებელ ადამიანთა ტიტული ინდოეთში - მაგალითად, ... განდი",
+      "answer": "მაჰათმა",
+      "length": 7
+    },
+    {
+      "id": "10-across",
+      "number": 10,
+      "direction": "across",
+      "row": 1,
+      "col": 8,
+      "clue": "სტამბოლის შემდეგ მეორე საიმპორტო ნავსადგური თურქეთში",
+      "answer": "იზმირი",
+      "length": 6
+    },
+    {
+      "id": "11-across",
+      "number": 11,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "clue": "სამატომიანი ჟანგბადი. ქმნის ატმოსფეროს დამცავ შრეს",
+      "answer": "ოზონი",
+      "length": 5
+    },
+    {
+      "id": "12-across",
+      "number": 12,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "clue": "გამომგონებელი, რომელმაც პრაქტიკაში დანერგა ტერმინი “ალო”",
+      "answer": "ედისონი",
+      "length": 7
+    },
+    {
+      "id": "13-across",
+      "number": 13,
+      "direction": "across",
+      "row": 3,
+      "col": 8,
+      "clue": "ციხესიმაგრე ლონდონში. გადმოცემით, იარსებებს მანამ, სანამ იქნებიან ყვავები",
+      "answer": "ტაუერი",
+      "length": 6
+    },
+    {
+      "id": "14-across",
+      "number": 14,
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "clue": "წრეწირთან დაკავშირებული რიცხვი",
+      "answer": "პი",
+      "length": 2
+    },
+    {
+      "id": "15-across",
+      "number": 15,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "clue": "“გველის ხვრელით ამომყვანი” მეტყველების ორგანო",
+      "answer": "ენა",
+      "length": 3
+    },
+    {
+      "id": "16-across",
+      "number": 16,
+      "direction": "across",
+      "row": 5,
+      "col": 4,
+      "clue": "ფრანგი მწერალი მარკიზ დე ..., რომელმაც თავის ნაწარმოებებში აღწერა სქესობრივი უკუღმართობები",
+      "answer": "სადი",
+      "length": 4
+    },
+    {
+      "id": "17-across",
+      "number": 17,
+      "direction": "across",
+      "row": 5,
+      "col": 9,
+      "clue": "ევროპის რომელ ქალაქში გაიხსნა პირველი აფთიაქი",
+      "answer": "პრაღა",
+      "length": 5
+    },
+    {
+      "id": "20-across",
+      "number": 20,
+      "direction": "across",
+      "row": 6,
+      "col": 7,
+      "clue": "ისრის წვერი",
+      "answer": "ზრო",
+      "length": 3
+    },
+    {
+      "id": "21-across",
+      "number": 21,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "clue": "მღვიმე ესპანეთის ტერიტორიაზე. ცნობილია კედლის მხატვრობით",
+      "answer": "ალტამირა",
+      "length": 8
+    },
+    {
+      "id": "24-across",
+      "number": 24,
+      "direction": "across",
+      "row": 7,
+      "col": 9,
+      "clue": "რომელი ქვეყნის დედაქალაქია ტრიპოლი",
+      "answer": "ლიბია",
+      "length": 5
+    },
+    {
+      "id": "26-across",
+      "number": 26,
+      "direction": "across",
+      "row": 8,
+      "col": 3,
+      "clue": "მზის ღმერთი ამონ-...",
+      "answer": "რა",
+      "length": 2
+    },
+    {
+      "id": "27-across",
+      "number": 27,
+      "direction": "across",
+      "row": 8,
+      "col": 8,
+      "clue": "საბჭოთა ილუზიონისტების საგვარეულო",
+      "answer": "კიო",
+      "length": 3
+    },
+    {
+      "id": "29-across",
+      "number": 29,
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "clue": "რა გვარით იცნობდა მთელი მსოფლიო პიროვნებას, რომლის ნამდვილი გვარი იყო შიკლგრუბერი",
+      "answer": "ჰიტლერი",
+      "length": 7
+    },
+    {
+      "id": "32-across",
+      "number": 32,
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "clue": "მდინარე, რომელიც ციმბირის ცენტრად მიიჩნევა",
+      "answer": "ობი",
+      "length": 3
+    },
+    {
+      "id": "33-across",
+      "number": 33,
+      "direction": "across",
+      "row": 10,
+      "col": 8,
+      "clue": "ბალტიისპირეთის რომელი ქალაქის სიმბოლოა “მოხუცი ტომასი”",
+      "answer": "ტალინი",
+      "length": 6
+    },
+    {
+      "id": "35-across",
+      "number": 35,
+      "direction": "across",
+      "row": 11,
+      "col": 2,
+      "clue": "სიტყვის ნაწილი. აღნიშნავს მოჭადრაკის მაღალ კლასს",
+      "answer": "მაისტერი",
+      "length": 8
+    },
+    {
+      "id": "36-across",
+      "number": 36,
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "clue": "“... მულტა, სედ მალტუმ” - “ბევრი არაა, მაგრამ ბევრია”, ანუ დიდი შინაარსი მოკლე ნათქვამში",
+      "answer": "ნონ",
+      "length": 3
+    },
+    {
+      "id": "37-across",
+      "number": 37,
+      "direction": "across",
+      "row": 12,
+      "col": 8,
+      "clue": "დოსტოევსკის რომანი",
+      "answer": "იდიოტი",
+      "length": 6
+    },
+    {
+      "id": "38-across",
+      "number": 38,
+      "direction": "across",
+      "row": 13,
+      "col": 2,
+      "clue": "ქვეყანა, რომელსაც ხმელთაშუა, ლიგურიის, ადრიატიკის, იონიის და ტირენის ზღვები აკრავს",
+      "answer": "იტალია",
+      "length": 6
+    },
+    {
+      "id": "1-down",
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "clue": "სრუტე, რომლითაც შეიძლება მარმარილოს ზღვაში მოხვედრა",
+      "answer": "დარდანელი",
+      "length": 9
+    },
+    {
+      "id": "2-down",
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "clue": "“წითელი” პლანეტა",
+      "answer": "მარსი",
+      "length": 5
+    },
+    {
+      "id": "3-down",
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "clue": "აზოტშემცველი აირი, რომლის წყალში გახსნით მიიღება ნიშადურის სპირტი",
+      "answer": "ამონიაკი",
+      "length": 8
+    },
+    {
+      "id": "4-down",
+      "number": 4,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "clue": "აირი, ანუ ...",
+      "answer": "გაზი",
+      "length": 4
+    },
+    {
+      "id": "5-down",
+      "number": 5,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "clue": "იგივეა, რაც ხრახნი. გამოიგონა არქიმედემ",
+      "answer": "ვინტი",
+      "length": 5
+    },
+    {
+      "id": "6-down",
+      "number": 6,
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "clue": "ამ კონტინენტზეა ყველაზე მაღალი მთა",
+      "answer": "აზია",
+      "length": 4
+    },
+    {
+      "id": "7-down",
+      "number": 7,
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "clue": "მსჯელობა ქათმისა და კვერცხის პირველობაზე",
+      "answer": "დილემა",
+      "length": 6
+    },
+    {
+      "id": "8-down",
+      "number": 8,
+      "direction": "down",
+      "row": 0,
+      "col": 13,
+      "clue": "ფოლგის ქართული შესატყვისი",
+      "answer": "კილიტა",
+      "length": 6
+    },
+    {
+      "id": "14-down",
+      "number": 14,
+      "direction": "down",
+      "row": 4,
+      "col": 7,
+      "clue": "ქალაქი დახრილი კოშკით",
+      "answer": "პიზა",
+      "length": 4
+    },
+    {
+      "id": "17-down",
+      "number": 17,
+      "direction": "down",
+      "row": 5,
+      "col": 9,
+      "clue": "სიტყვის ნაწილი. ნიშნავს ბევრს",
+      "answer": "პოლი",
+      "length": 4
+    },
+    {
+      "id": "18-down",
+      "number": 18,
+      "direction": "down",
+      "row": 5,
+      "col": 12,
+      "clue": "რომელი მცენარის ნაყენით მზადდება ალკოჰოლური სასმელი ჯინი",
+      "answer": "ღვია",
+      "length": 4
+    },
+    {
+      "id": "19-down",
+      "number": 19,
+      "direction": "down",
+      "row": 6,
+      "col": 3,
+      "clue": "დაავადება - წითელი ...",
+      "answer": "ქარი",
+      "length": 4
+    },
+    {
+      "id": "22-down",
+      "number": 22,
+      "direction": "down",
+      "row": 7,
+      "col": 4,
+      "clue": "ვაჩოვსკების საკულტო ფილმი",
+      "answer": "მატრიცა",
+      "length": 7
+    },
+    {
+      "id": "23-down",
+      "number": 23,
+      "direction": "down",
+      "row": 7,
+      "col": 6,
+      "clue": "დოკუმენტების ჩასაწერი დავთარი, რაც ლათინურად “რეგისტრაციას” ნიშნავს",
+      "answer": "რეესტრი",
+      "length": 7
+    },
+    {
+      "id": "25-down",
+      "number": 25,
+      "direction": "down",
+      "row": 7,
+      "col": 10,
+      "clue": "იუპიტერის 16 თანამგზავრიდან ერთ-ერთი",
+      "answer": "იო",
+      "length": 2
+    },
+    {
+      "id": "27-down",
+      "number": 27,
+      "direction": "down",
+      "row": 8,
+      "col": 8,
+      "clue": "ბოსტნეული, რომელიც საკვებად ვარგისი მხოლოდ უმწიფარ მდგომარეობაშია",
+      "answer": "კიტრი",
+      "length": 5
+    },
+    {
+      "id": "28-down",
+      "number": 28,
+      "direction": "down",
+      "row": 9,
+      "col": 0,
+      "clue": "კონცხი. სამხრეთ ამერიკის უკიდურესი სამხრეთი წერტილი",
+      "answer": "ჰორნი",
+      "length": 5
+    },
+    {
+      "id": "29-down",
+      "number": 29,
+      "direction": "down",
+      "row": 9,
+      "col": 2,
+      "clue": "რა ჟღერს სპორტში დაჯილდოების დროს",
+      "answer": "ჰიმნი",
+      "length": 5
+    },
+    {
+      "id": "30-down",
+      "number": 30,
+      "direction": "down",
+      "row": 9,
+      "col": 11,
+      "clue": "... ტერ პეტროსიანი, იგივე კამო",
+      "answer": "სიმონ",
+      "length": 5
+    },
+    {
+      "id": "31-down",
+      "number": 31,
+      "direction": "down",
+      "row": 9,
+      "col": 13,
+      "clue": "რომელ მეცნიერებაში ჰქონდა გამოკვლევები კომპოზიტორ ბოროდინს",
+      "answer": "ქიმია",
+      "length": 5
+    },
+    {
+      "id": "34-down",
+      "number": 34,
+      "direction": "down",
+      "row": 10,
+      "col": 9,
+      "clue": "ოპერა. დაიწერა სუეცის არხის გახსნასთან დაკავშირებით",
+      "answer": "აიდა",
+      "length": 4
+    }
+  ]
+}

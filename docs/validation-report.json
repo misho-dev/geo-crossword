@@ -1,0 +1,147 @@
+{
+  "discovered": 20,
+  "validated": 20,
+  "rejected": [],
+  "puzzles": [
+    {
+      "id": "original-001",
+      "cells": 24,
+      "clues": 7,
+      "rows": 10,
+      "cols": 4
+    },
+    {
+      "id": "original-002",
+      "cells": 30,
+      "clues": 8,
+      "rows": 7,
+      "cols": 10
+    },
+    {
+      "id": "original-003",
+      "cells": 40,
+      "clues": 8,
+      "rows": 12,
+      "cols": 8
+    },
+    {
+      "id": "original-004",
+      "cells": 44,
+      "clues": 8,
+      "rows": 13,
+      "cols": 7
+    },
+    {
+      "id": "original-005",
+      "cells": 45,
+      "clues": 8,
+      "rows": 8,
+      "cols": 12
+    },
+    {
+      "id": "original-006",
+      "cells": 34,
+      "clues": 8,
+      "rows": 10,
+      "cols": 8
+    },
+    {
+      "id": "original-007",
+      "cells": 46,
+      "clues": 8,
+      "rows": 14,
+      "cols": 7
+    },
+    {
+      "id": "original-008",
+      "cells": 52,
+      "clues": 8,
+      "rows": 8,
+      "cols": 12
+    },
+    {
+      "id": "original-009",
+      "cells": 38,
+      "clues": 8,
+      "rows": 11,
+      "cols": 7
+    },
+    {
+      "id": "original-010",
+      "cells": 49,
+      "clues": 8,
+      "rows": 7,
+      "cols": 15
+    },
+    {
+      "id": "original-011",
+      "cells": 40,
+      "clues": 8,
+      "rows": 6,
+      "cols": 15
+    },
+    {
+      "id": "original-012",
+      "cells": 47,
+      "clues": 8,
+      "rows": 10,
+      "cols": 9
+    },
+    {
+      "id": "original-013",
+      "cells": 35,
+      "clues": 8,
+      "rows": 6,
+      "cols": 11
+    },
+    {
+      "id": "original-014",
+      "cells": 46,
+      "clues": 8,
+      "rows": 7,
+      "cols": 15
+    },
+    {
+      "id": "original-015",
+      "cells": 38,
+      "clues": 8,
+      "rows": 7,
+      "cols": 11
+    },
+    {
+      "id": "original-016",
+      "cells": 38,
+      "clues": 8,
+      "rows": 10,
+      "cols": 8
+    },
+    {
+      "id": "original-017",
+      "cells": 44,
+      "clues": 8,
+      "rows": 6,
+      "cols": 14
+    },
+    {
+      "id": "original-018",
+      "cells": 36,
+      "clues": 8,
+      "rows": 9,
+      "cols": 8
+    },
+    {
+      "id": "original-019",
+      "cells": 39,
+      "clues": 8,
+      "rows": 10,
+      "cols": 8
+    },
+    {
+      "id": "original-020",
+      "cells": 48,
+      "clues": 8,
+      "rows": 9,
+      "cols": 11
+    }
+  ]
+}

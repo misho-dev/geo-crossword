@@ -1,0 +1,644 @@
+{
+  "schemaVersion": 1,
+  "id": "ambebi-37",
+  "title": "კროსვორდი № 37",
+  "source": {
+    "website": "ambebi.ge",
+    "url": "https://www.ambebi.ge/puzzle/crosswords/37/",
+    "sourceId": "37",
+    "type": "external",
+    "license": "permission-required",
+    "originalCreated": "20:39 / 17-05-2018"
+  },
+  "extractedAt": "2026-11-10T07:22:13.060119+00:00",
+  "difficulty": "hard",
+  "difficultyEstimated": true,
+  "grid": {
+    "rows": 14,
+    "cols": 14,
+    "blocked": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        1,
+        10
+      ],
+      [
+        1,
+        12
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        4,
+        12
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        5,
+        10
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        9
+      ],
+      [
+        7,
+        6
+      ],
+      [
+        7,
+        11
+      ],
+      [
+        7,
+        13
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        9,
+        11
+      ],
+      [
+        9,
+        13
+      ],
+      [
+        10,
+        1
+      ],
+      [
+        10,
+        3
+      ],
+      [
+        10,
+        5
+      ],
+      [
+        10,
+        10
+      ],
+      [
+        10,
+        12
+      ],
+      [
+        11,
+        0
+      ],
+      [
+        11,
+        2
+      ],
+      [
+        11,
+        4
+      ],
+      [
+        11,
+        6
+      ],
+      [
+        11,
+        8
+      ],
+      [
+        12,
+        8
+      ],
+      [
+        12,
+        10
+      ],
+      [
+        12,
+        12
+      ],
+      [
+        13,
+        0
+      ],
+      [
+        13,
+        2
+      ],
+      [
+        13,
+        4
+      ],
+      [
+        13,
+        6
+      ],
+      [
+        13,
+        8
+      ]
+    ]
+  },
+  "clues": [
+    {
+      "id": "5-across",
+      "number": 5,
+      "direction": "across",
+      "row": 0,
+      "col": 9,
+      "clue": "რემბრანდტის ნახატი, რომელზეც პალატაში გამომწყვდეულ დედოფალ ევრიდიკეს ქალიშვილს ზევსი ოქროს წვიმის სახით გამოეცხადა",
+      "answer": "დანაე",
+      "length": 5
+    },
+    {
+      "id": "8-across",
+      "number": 8,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "clue": "ხოჭო, რომლის ნათების ეფექტი გამოწვეულია ნივთიერება ლუციფერინით",
+      "answer": "ციცინათელა",
+      "length": 10
+    },
+    {
+      "id": "9-across",
+      "number": 9,
+      "direction": "across",
+      "row": 2,
+      "col": 9,
+      "clue": "ტენორი ალფრედ არნოლდ კოკოცა, ცნობილი იყო როგორც მარიო ...",
+      "answer": "ლანცა",
+      "length": 5
+    },
+    {
+      "id": "10-across",
+      "number": 10,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "clue": "საკვები ნივთიერება, რომელიც ცილა კოლაგენისაგან მიიღება",
+      "answer": "ჟელატინი",
+      "length": 8
+    },
+    {
+      "id": "11-across",
+      "number": 11,
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "clue": "გიორგი სააკაძის მშობლიური სოფელი",
+      "answer": "ნოსტე",
+      "length": 5
+    },
+    {
+      "id": "12-across",
+      "number": 12,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "clue": "ნივთიერება, რომელიც თამბაქოს მცენარის ბუნებრივი დამცველია",
+      "answer": "ნიკოტინი",
+      "length": 8
+    },
+    {
+      "id": "16-across",
+      "number": 16,
+      "direction": "across",
+      "row": 5,
+      "col": 11,
+      "clue": "არასასურველი პიროვნება: პერსონა ... გრატა",
+      "answer": "ნონ",
+      "length": 3
+    },
+    {
+      "id": "19-across",
+      "number": 19,
+      "direction": "across",
+      "row": 6,
+      "col": 10,
+      "clue": "იულიუს კეისრის სიტყვები: “ვენი, ..., ვიცი”, ანუ “მოვედი, ვნახე, დავამარცხე”",
+      "answer": "ვიდი",
+      "length": 4
+    },
+    {
+      "id": "20-across",
+      "number": 20,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "clue": "ვის მაგიდას ამშვენებდა დევიზი: “ძალა - ეს ჯერ კიდევ არ არის სამართლიანობა, სამართლიანობა კი ეს არის ძალა”",
+      "answer": "არტური",
+      "length": 6
+    },
+    {
+      "id": "22-across",
+      "number": 22,
+      "direction": "across",
+      "row": 7,
+      "col": 7,
+      "clue": "ქიმიური ელემენტი, რომლის დეფიციტი ფარისებრი ჯირკვლის პათოლოგიას იწვევს",
+      "answer": "იოდი",
+      "length": 4
+    },
+    {
+      "id": "23-across",
+      "number": 23,
+      "direction": "across",
+      "row": 8,
+      "col": 4,
+      "clue": "ზამბახი, ანუ ...",
+      "answer": "ირისი",
+      "length": 5
+    },
+    {
+      "id": "24-across",
+      "number": 24,
+      "direction": "across",
+      "row": 8,
+      "col": 10,
+      "clue": "ფრანგული ავტომობილი",
+      "answer": "რენო",
+      "length": 4
+    },
+    {
+      "id": "25-across",
+      "number": 25,
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "clue": "ფრანგი პიანისტი შარლ .... შექმნა ფორტეპიანოზე დაკვრის სავარჯიშოები",
+      "answer": "განონი",
+      "length": 6
+    },
+    {
+      "id": "26-across",
+      "number": 26,
+      "direction": "across",
+      "row": 9,
+      "col": 9,
+      "clue": "წრეწირთან დაკავშირებული კონსტანტა",
+      "answer": "პი",
+      "length": 2
+    },
+    {
+      "id": "27-across",
+      "number": 27,
+      "direction": "across",
+      "row": 10,
+      "col": 6,
+      "clue": "ცხენი - რემა, ღორი - კოლტი, ... - პრაიდი",
+      "answer": "ლომი",
+      "length": 4
+    },
+    {
+      "id": "33-across",
+      "number": 33,
+      "direction": "across",
+      "row": 11,
+      "col": 9,
+      "clue": "ორგანო, რომელშიც არის რუხი ნივთიერება",
+      "answer": "ტვინი",
+      "length": 5
+    },
+    {
+      "id": "34-across",
+      "number": 34,
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "clue": "შინაგანი სეკრეციის ჯირკვალი. მდებარეობს თავის ტვინის ქვეშ",
+      "answer": "ჰიპოფიზი",
+      "length": 8
+    },
+    {
+      "id": "35-across",
+      "number": 35,
+      "direction": "across",
+      "row": 13,
+      "col": 9,
+      "clue": "გამოუწვავი აგური",
+      "answer": "ალიზი",
+      "length": 5
+    },
+    {
+      "id": "1-down",
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "clue": "თავდაპირველად რა ფერის იყო დოლარი",
+      "answer": "წითელი",
+      "length": 6
+    },
+    {
+      "id": "2-down",
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "clue": "კონკისტადორი, რომელმაც ინკების სახელმწიფო გაანადგურა",
+      "answer": "პისარო",
+      "length": 6
+    },
+    {
+      "id": "3-down",
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "clue": "მცოხნელი ცხოველის კუჭის ნაწილებია: ფაშვი, ბადურა, წიგნარა და ...",
+      "answer": "მაჭიკი",
+      "length": 6
+    },
+    {
+      "id": "4-down",
+      "number": 4,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "clue": "რეჟისორი, რომლის მუზა იყო ჯულიეტა მაზინა",
+      "answer": "ფელინი",
+      "length": 6
+    },
+    {
+      "id": "5-down",
+      "number": 5,
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "clue": "ქალაქი, სადაც მოკლეს ჯონ კენედი",
+      "answer": "დალასი",
+      "length": 6
+    },
+    {
+      "id": "6-down",
+      "number": 6,
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "clue": "ჩრდილოეთ პოლუსის მკვლევარი ფრიტიოფ ...",
+      "answer": "ნანსენი",
+      "length": 7
+    },
+    {
+      "id": "7-down",
+      "number": 7,
+      "direction": "down",
+      "row": 0,
+      "col": 13,
+      "clue": "წონისა და ზომის საერთაშორისოდ აღიარებული ნიმუში, რომელიც პარიზთან, ქალაქ სევრის ღრმა ბუნკერში ინახება",
+      "answer": "ეტალონი",
+      "length": 7
+    },
+    {
+      "id": "12-down",
+      "number": 12,
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "clue": "რეპტილია, რომელიც “ტირილის” დროს ორგანიზმიდან ზედმეტ მარილებს გამოდევნის",
+      "answer": "ნიანგი",
+      "length": 6
+    },
+    {
+      "id": "13-down",
+      "number": 13,
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "clue": "იგივეა, რაც ბამბა",
+      "answer": "კოტონი",
+      "length": 6
+    },
+    {
+      "id": "14-down",
+      "number": 14,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "clue": "ქალაქი იტალიაში, სადაც აღმოაჩინეს ქრისტეს სუდარა",
+      "answer": "ტურინი",
+      "length": 6
+    },
+    {
+      "id": "15-down",
+      "number": 15,
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "clue": "იაპონური თეატრი",
+      "answer": "ნო",
+      "length": 2
+    },
+    {
+      "id": "17-down",
+      "number": 17,
+      "direction": "down",
+      "row": 5,
+      "col": 12,
+      "clue": "ვალჰალას მბრძანებელი",
+      "answer": "ოდინი",
+      "length": 5
+    },
+    {
+      "id": "18-down",
+      "number": 18,
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "clue": "ინგლისელი პოპ-მომღერალი ... ჯორჯი",
+      "answer": "ბოი",
+      "length": 3
+    },
+    {
+      "id": "19-down",
+      "number": 19,
+      "direction": "down",
+      "row": 6,
+      "col": 10,
+      "clue": "რომელი ცხოველის უნაგირს ჰქვია კეხი",
+      "answer": "ვირი",
+      "length": 4
+    },
+    {
+      "id": "21-down",
+      "number": 21,
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "clue": "სოფელი რაჭაში",
+      "answer": "ირი",
+      "length": 3
+    },
+    {
+      "id": "22-down",
+      "number": 22,
+      "direction": "down",
+      "row": 7,
+      "col": 7,
+      "clue": "მხ/ფ “ვესტსაიდური ...”",
+      "answer": "ისტორია",
+      "length": 7
+    },
+    {
+      "id": "26-down",
+      "number": 26,
+      "direction": "down",
+      "row": 9,
+      "col": 9,
+      "clue": "რომელი მცენარის ზეთია მენთოლი",
+      "answer": "პიტნა",
+      "length": 5
+    },
+    {
+      "id": "28-down",
+      "number": 28,
+      "direction": "down",
+      "row": 10,
+      "col": 11,
+      "clue": "გატეხილი ჭურჭლის დასაწებებელი ნივთიერება - კოწიწი; იგივეა, რაც რძეში გახსნილი ...",
+      "answer": "კირი",
+      "length": 4
+    },
+    {
+      "id": "29-down",
+      "number": 29,
+      "direction": "down",
+      "row": 10,
+      "col": 13,
+      "clue": "რა სახის ომის შეწყვეტა გამოაცხადა რუსეთმა და აშშ-მ ოფიციალურად 1992 წელს",
+      "answer": "ცივი",
+      "length": 4
+    },
+    {
+      "id": "30-down",
+      "number": 30,
+      "direction": "down",
+      "row": 11,
+      "col": 1,
+      "clue": "კონცხი ყირიმის სანაპიროზე",
+      "answer": "აია",
+      "length": 3
+    },
+    {
+      "id": "31-down",
+      "number": 31,
+      "direction": "down",
+      "row": 11,
+      "col": 3,
+      "clue": "გადაშენებული გიგანტური ფრინველი",
+      "answer": "მოა",
+      "length": 3
+    },
+    {
+      "id": "32-down",
+      "number": 32,
+      "direction": "down",
+      "row": 11,
+      "col": 5,
+      "clue": "მხ.ფ “შინდლერის ...”",
+      "answer": "სია",
+      "length": 3
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "schemaVersion": 1,
+  "id": "ambebi-11",
+  "title": "კროსვორდი № 11",
+  "source": {
+    "website": "ambebi.ge",
+    "url": "https://www.ambebi.ge/puzzle/crosswords/11/",
+    "sourceId": "11",
+    "type": "external",
+    "license": "permission-required",
+    "originalCreated": "09:25 / 10-04-2018"
+  },
+  "extractedAt": "2026-11-10T07:22:20.568369+00:00",
+  "difficulty": "hard",
+  "difficultyEstimated": true,
+  "grid": {
+    "rows": 14,
+    "cols": 14,
+    "blocked": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        1,
+        10
+      ],
+      [
+        1,
+        12
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        6
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        5,
+        10
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        5,
+        13
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        9
+      ],
+      [
+        7,
+        11
+      ],
+      [
+        7,
+        13
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        9
+      ],
+      [
+        9,
+        11
+      ],
+      [
+        9,
+        13
+      ],
+      [
+        10,
+        3
+      ],
+      [
+        10,
+        5
+      ],
+      [
+        10,
+        6
+      ],
+      [
+        10,
+        8
+      ],
+      [
+        11,
+        0
+      ],
+      [
+        11,
+        2
+      ],
+      [
+        11,
+        11
+      ],
+      [
+        11,
+        13
+      ],
+      [
+        12,
+        3
+      ],
+      [
+        12,
+        5
+      ],
+      [
+        12,
+        7
+      ],
+      [
+        12,
+        12
+      ],
+      [
+        13,
+        0
+      ],
+      [
+        13,
+        2
+      ],
+      [
+        13,
+        7
+      ]
+    ]
+  },
+  "clues": [
+    {
+      "id": "4-across",
+      "number": 4,
+      "direction": "across",
+      "row": 0,
+      "col": 7,
+      "clue": "ქალის რომელი სამოსის დასამზადებლად იყენებდნენ ლურჯი ვეშაპის ულვაშს",
+      "answer": "კორსეტი",
+      "length": 7
+    },
+    {
+      "id": "8-across",
+      "number": 8,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "clue": "1845 წლამდე თბილისის ბოტანიკურ ბაღს ერქვა “... ბაღი”",
+      "answer": "სახაზინო",
+      "length": 8
+    },
+    {
+      "id": "9-across",
+      "number": 9,
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "clue": "ჯარისკაცების დგომა მწკრივში სიმაღლის მიხედვით",
+      "answer": "რანჟირი",
+      "length": 7
+    },
+    {
+      "id": "10-across",
+      "number": 10,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "clue": "1880 წელს რუსმა მეცნიერმა ლუნინმა აღმოაჩინა ნივთიერება, რომელსაც მისი თვისებების გამო “სიცოცხლის მომნიჭებელი” უწოდა. რა ნივთიერებაა ეს (ზოგადად)",
+      "answer": "ვიტამინი",
+      "length": 8
+    },
+    {
+      "id": "11-across",
+      "number": 11,
+      "direction": "across",
+      "row": 4,
+      "col": 7,
+      "clue": "თავსამკაული: ღია გვირგვინი",
+      "answer": "დიადემა",
+      "length": 7
+    },
+    {
+      "id": "12-across",
+      "number": 12,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "clue": "ლონდონი - უემბლი, ბარსელონა - კამპანოუ, რიო-დე-ჟანეირო - ...",
+      "answer": "მარაკანა",
+      "length": 8
+    },
+    {
+      "id": "15-across",
+      "number": 15,
+      "direction": "across",
+      "row": 6,
+      "col": 8,
+      "clue": "ოპტიკა, მექანიკა, ელექტროობა - რომელი მეცნიერება სწავლობს მათ",
+      "answer": "ფიზიკა",
+      "length": 6
+    },
+    {
+      "id": "18-across",
+      "number": 18,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "clue": "ფრინველი, რომლის ტვინის ზომა, თვალის ზომაზე ნაკლებია",
+      "answer": "სირაქლემა",
+      "length": 9
+    },
+    {
+      "id": "20-across",
+      "number": 20,
+      "direction": "across",
+      "row": 8,
+      "col": 8,
+      "clue": "უღელტეხილი ხარაგაულისა და ხაშურის რაიონებში",
+      "answer": "რიკოთი",
+      "length": 6
+    },
+    {
+      "id": "21-across",
+      "number": 21,
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "clue": "მთა ბორჯომის რაიონში, გაყვანილია ბაგირგზები",
+      "answer": "კოხტაგორა",
+      "length": 9
+    },
+    {
+      "id": "24-across",
+      "number": 24,
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "clue": "მიწის ფართობის ერთეული",
+      "answer": "არი",
+      "length": 3
+    },
+    {
+      "id": "25-across",
+      "number": 25,
+      "direction": "across",
+      "row": 10,
+      "col": 9,
+      "clue": "თუთიყუშის სახეობა",
+      "answer": "არარა",
+      "length": 5
+    },
+    {
+      "id": "26-across",
+      "number": 26,
+      "direction": "across",
+      "row": 11,
+      "col": 3,
+      "clue": "მიხეილ ზოშჩენკოს ნოველა, რომლის ქართულ ეკრანიზაციაში თამაშობს რამაზ გიორგობიანი",
+      "answer": "სერენადა",
+      "length": 8
+    },
+    {
+      "id": "29-across",
+      "number": 29,
+      "direction": "across",
+      "row": 12,
+      "col": 0,
+      "clue": "რა იზომებოდა ძველ საბერძნეთში კლეფსიდრით",
+      "answer": "დრო",
+      "length": 3
+    },
+    {
+      "id": "30-across",
+      "number": 30,
+      "direction": "across",
+      "row": 12,
+      "col": 8,
+      "clue": "ვაზის ჯიში",
+      "answer": "თითა",
+      "length": 4
+    },
+    {
+      "id": "33-across",
+      "number": 33,
+      "direction": "across",
+      "row": 13,
+      "col": 3,
+      "clue": "ინდუიზმის ერთ-ერთი ღვთაება, აქვს რვა ხელი",
+      "answer": "შივა",
+      "length": 4
+    },
+    {
+      "id": "34-across",
+      "number": 34,
+      "direction": "across",
+      "row": 13,
+      "col": 8,
+      "clue": "ძველებური ქართული ცხენოსნობა ჭოკით",
+      "answer": "ისინდი",
+      "length": 6
+    },
+    {
+      "id": "1-down",
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "clue": "ფედერიკო ფელინის მუზა",
+      "answer": "მაზინა",
+      "length": 6
+    },
+    {
+      "id": "2-down",
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "clue": "მთა თბილისში. მას “მეხთა ადგილს” უწოდებდნენ",
+      "answer": "მახათა",
+      "length": 6
+    },
+    {
+      "id": "3-down",
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "clue": "კახეთის 1659 წლის სახალხო აჯანყების ერთ-ერთი მეთაური ... ჩოლოყაშვილი",
+      "answer": "ბიძინა",
+      "length": 6
+    },
+    {
+      "id": "4-down",
+      "number": 4,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "clue": ". ხარებთან ბრძოლას საქართველოში ეწოდებოდა კურული, ესპანეთში კი ...",
+      "answer": "კორიდა",
+      "length": 6
+    },
+    {
+      "id": "5-down",
+      "number": 5,
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "clue": "ფრანგი მხატვარი, რომლის შემოქმედებაში გამორჩეულია “მშრალი პერიოდი”",
+      "answer": "რენუარი",
+      "length": 7
+    },
+    {
+      "id": "6-down",
+      "number": 6,
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "clue": "ამერიკელი რეპერი მარშალ ბრიუს მეზერს III - იგივე ...",
+      "answer": "ემინემი",
+      "length": 7
+    },
+    {
+      "id": "7-down",
+      "number": 7,
+      "direction": "down",
+      "row": 0,
+      "col": 13,
+      "clue": "ცისარტყელას ქალღმერთი, ღმერთების მაცნე (ბერძ. მით.)",
+      "answer": "ირიდა",
+      "length": 5
+    },
+    {
+      "id": "12-down",
+      "number": 12,
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "clue": "რას წერენ ნოტების საშუალებით",
+      "answer": "მუსიკა",
+      "length": 6
+    },
+    {
+      "id": "13-down",
+      "number": 13,
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "clue": "რუსი მხატვარი. ცხოვრობდა ინდოეთში",
+      "answer": "რერიხი",
+      "length": 6
+    },
+    {
+      "id": "14-down",
+      "number": 14,
+      "direction": "down",
+      "row": 5,
+      "col": 6,
+      "clue": "მოსევადების ტექნიკა",
+      "answer": "ნიელო",
+      "length": 5
+    },
+    {
+      "id": "15-down",
+      "number": 15,
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "clue": "ცხენი - რემა, ლომი - პრაიდი, ცხვარი - ...",
+      "answer": "ფარა",
+      "length": 4
+    },
+    {
+      "id": "16-down",
+      "number": 16,
+      "direction": "down",
+      "row": 6,
+      "col": 10,
+      "clue": "საკულტო კოშკი ძველ მესოპოტამიაში",
+      "answer": "ზიკურათი",
+      "length": 8
+    },
+    {
+      "id": "17-down",
+      "number": 17,
+      "direction": "down",
+      "row": 6,
+      "col": 12,
+      "clue": "ლირის მსგავსი ძველი ბერძნული საკრავი",
+      "answer": "კითარა",
+      "length": 6
+    },
+    {
+      "id": "19-down",
+      "number": 19,
+      "direction": "down",
+      "row": 7,
+      "col": 4,
+      "clue": "“გვადი ბიგვა”. ავტორი",
+      "answer": "ქიაჩელი",
+      "length": 7
+    },
+    {
+      "id": "22-down",
+      "number": 22,
+      "direction": "down",
+      "row": 9,
+      "col": 1,
+      "clue": "მხ/ფ “..., სრული სვლით”",
+      "answer": "ორერა",
+      "length": 5
+    },
+    {
+      "id": "23-down",
+      "number": 23,
+      "direction": "down",
+      "row": 9,
+      "col": 7,
+      "clue": "რეჟისორი ... ჰოვარდი",
+      "answer": "რონ",
+      "length": 3
+    },
+    {
+      "id": "25-down",
+      "number": 25,
+      "direction": "down",
+      "row": 10,
+      "col": 9,
+      "clue": ". ეთიოპიის დედაქალაქი ...-აბება, მას აფრიკის პოლიტიკურ დედაქალაქსაც უწოდებენ",
+      "answer": "ადის",
+      "length": 4
+    },
+    {
+      "id": "27-down",
+      "number": 27,
+      "direction": "down",
+      "row": 11,
+      "col": 6,
+      "clue": "რა შეიძლება ჰქონდეს ადამიანს “გეოგრაფიული”",
+      "answer": "ენა",
+      "length": 3
+    },
+    {
+      "id": "28-down",
+      "number": 28,
+      "direction": "down",
+      "row": 11,
+      "col": 8,
+      "clue": "შარლ აზნავური ფილმში “ეშმაკი და ... მცნება",
+      "answer": "ათი",
+      "length": 3
+    },
+    {
+      "id": "31-down",
+      "number": 31,
+      "direction": "down",
+      "row": 12,
+      "col": 11,
+      "clue": "სპარტანელების დევიზი: “ფარით, ... ფარზე”",
+      "answer": "ან",
+      "length": 2
+    },
+    {
+      "id": "32-down",
+      "number": 32,
+      "direction": "down",
+      "row": 12,
+      "col": 13,
+      "clue": "ანდაზა: “დავრდომილს წიხლი ... არა, შველა უნდაო”",
+      "answer": "კი",
+      "length": 2
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+  <meta charset="utf-8" /><title>Sitqvana browser regression suite</title
+  ><style>
+    body {
+      font: 15px system-ui;
+      background: #f8f7f2;
+      color: #153c2c;
+      margin: 28px;
+    }
+    button {
+      padding: 12px 20px;
+      background: #174c3c;
+      color: white;
+      border: 0;
+      border-radius: 6px;
+    }
+    iframe {
+      display: block;
+      width: 1120px;
+      height: 820px;
+      border: 1px solid #aaa;
+      margin-top: 20px;
+    }
+    pre {
+      white-space: pre-wrap;
+    }
+    .pass {
+      color: #175a36;
+    }
+    .fail {
+      color: #b22;
+    }
+  </style>
+  <h1>სიტყვანა — Browser regression suite</h1>
+  <p>
+    This test temporarily uses this preview origin's progress and restores the
+    previous save afterward. Keep other game tabs closed during testing.
+  </p>
+  <button id="run">Run complete browser tests</button>
+  <pre id="results" role="status">Ready.</pre>
+  <iframe id="app" title="Game under test" src="about:blank"></iframe>
+  <script type="module" src="./e2e.js?v=2"></script>
+</html>

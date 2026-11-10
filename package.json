@@ -1,0 +1,16 @@
+{
+  "name": "sitqvana",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "A fully local Georgian crossword game",
+  "scripts": {
+    "dev": "python3 scripts/dev.py",
+    "test": "node --test tests/*.test.js && python3 -m unittest discover -s tests -p \"test_*.py\"",
+    "validate": "python3 scripts/validator.py data/puzzles",
+    "build": "python3 scripts/build.py"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

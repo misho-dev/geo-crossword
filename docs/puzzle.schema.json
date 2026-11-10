@@ -1,0 +1,169 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/sitqvana/puzzle-v1.schema.json",
+  "title": "Sitqvana crossword v1",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "id",
+    "title",
+    "source",
+    "difficulty",
+    "grid",
+    "clues"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9-]{0,79}$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "difficulty": {
+      "enum": [
+        "easy",
+        "medium",
+        "hard"
+      ]
+    },
+    "source": {
+      "type": "object",
+      "required": [
+        "type",
+        "url"
+      ],
+      "properties": {
+        "type": {
+          "enum": [
+            "original",
+            "external"
+          ]
+        },
+        "url": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "sourceId": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "website": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "license": {
+          "type": "string"
+        }
+      }
+    },
+    "extractedAt": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "grid": {
+      "type": "object",
+      "required": [
+        "rows",
+        "cols",
+        "blocked"
+      ],
+      "properties": {
+        "rows": {
+          "type": "integer",
+          "minimum": 2,
+          "maximum": 60
+        },
+        "cols": {
+          "type": "integer",
+          "minimum": 2,
+          "maximum": 60
+        },
+        "blocked": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "array",
+            "prefixItems": [
+              {
+                "type": "integer",
+                "minimum": 0
+              },
+              {
+                "type": "integer",
+                "minimum": 0
+              }
+            ],
+            "minItems": 2,
+            "maxItems": 2
+          }
+        }
+      }
+    },
+    "clues": {
+      "type": "array",
+      "minItems": 1,
+      "maxItems": 500,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "number",
+          "direction",
+          "row",
+          "col",
+          "clue",
+          "answer"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "number": {
+            "type": "integer",
+            "minimum": 1
+          },
+          "direction": {
+            "enum": [
+              "across",
+              "down"
+            ]
+          },
+          "row": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "col": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "clue": {
+            "type": "string",
+            "minLength": 1
+          },
+          "answer": {
+            "type": "string",
+            "pattern": "^[ა-ჰ]{2,}$"
+          },
+          "length": {
+            "type": "integer",
+            "minimum": 2
+          }
+        }
+      }
+    }
+  }
+}

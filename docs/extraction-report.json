@@ -1,0 +1,164 @@
+{
+  "checkedAt": "2026-11-10T07:21:54.472070+00:00",
+  "source": "https://www.ambebi.ge/puzzle/crosswords/",
+  "termsUrl": "https://www.ambebi.ge/article/3006-masalebis-gamokveqnebis-pirobebi/",
+  "reusePermissionEstablished": false,
+  "robotsStatus": 404,
+  "listingPages": 4,
+  "advertisedTotal": 67,
+  "discovered": 67,
+  "extracted": 38,
+  "validated": 38,
+  "duplicates": 0,
+  "rejected": [
+    {
+      "sourceId": "67",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/67/",
+      "reason": "Conflicting intersection"
+    },
+    {
+      "sourceId": "62",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/62/",
+      "reason": "Conflicting intersection"
+    },
+    {
+      "sourceId": "61",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/61/",
+      "reason": "Conflicting intersection"
+    },
+    {
+      "sourceId": "59",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/59/",
+      "reason": "Overlapping same-direction entries"
+    },
+    {
+      "sourceId": "55",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/55/",
+      "reason": "Conflicting intersection"
+    },
+    {
+      "sourceId": "54",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/54/",
+      "reason": "Conflicting intersection"
+    },
+    {
+      "sourceId": "53",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/53/",
+      "reason": "Conflicting intersection"
+    },
+    {
+      "sourceId": "51",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/51/",
+      "reason": "Conflicting intersection"
+    },
+    {
+      "sourceId": "49",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/49/",
+      "reason": "Conflicting intersection"
+    },
+    {
+      "sourceId": "48",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/48/",
+      "reason": "Conflicting intersection"
+    },
+    {
+      "sourceId": "45",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/45/",
+      "reason": "Open run without matching clue"
+    },
+    {
+      "sourceId": "44",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/44/",
+      "reason": "Inconsistent shared numbering"
+    },
+    {
+      "sourceId": "43",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/43/",
+      "reason": "Conflicting intersection"
+    },
+    {
+      "sourceId": "42",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/42/",
+      "reason": "Conflicting intersection"
+    },
+    {
+      "sourceId": "38",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/38/",
+      "reason": "Nonsequential or inconsistent numbering"
+    },
+    {
+      "sourceId": "33",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/33/",
+      "reason": "Answer exceeds grid boundary"
+    },
+    {
+      "sourceId": "30",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/30/",
+      "reason": "Conflicting intersection"
+    },
+    {
+      "sourceId": "26",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/26/",
+      "reason": "Conflicting intersection"
+    },
+    {
+      "sourceId": "21",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/21/",
+      "reason": "Conflicting intersection"
+    },
+    {
+      "sourceId": "19",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/19/",
+      "reason": "Conflicting intersection"
+    },
+    {
+      "sourceId": "18",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/18/",
+      "reason": "Conflicting intersection"
+    },
+    {
+      "sourceId": "17",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/17/",
+      "reason": "Missing or invalid Georgian answer"
+    },
+    {
+      "sourceId": "16",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/16/",
+      "reason": "Conflicting intersection"
+    },
+    {
+      "sourceId": "14",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/14/",
+      "reason": "Disconnected crossword"
+    },
+    {
+      "sourceId": "10",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/10/",
+      "reason": "Conflicting intersection"
+    },
+    {
+      "sourceId": "9",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/9/",
+      "reason": "Conflicting intersection"
+    },
+    {
+      "sourceId": "3",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/3/",
+      "reason": "Disconnected crossword"
+    },
+    {
+      "sourceId": "2",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/2/",
+      "reason": "Missing or invalid Georgian answer"
+    },
+    {
+      "sourceId": "1",
+      "url": "https://www.ambebi.ge/puzzle/crosswords/1/",
+      "reason": "Conflicting intersection"
+    }
+  ],
+  "errors": [],
+  "published": 0,
+  "originalAnswersObtained": true,
+  "collectionExhausted": true
+}

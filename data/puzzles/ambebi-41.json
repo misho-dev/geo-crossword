@@ -1,0 +1,626 @@
+{
+  "schemaVersion": 1,
+  "id": "ambebi-41",
+  "title": "კროსვორდი № 41",
+  "source": {
+    "website": "ambebi.ge",
+    "url": "https://www.ambebi.ge/puzzle/crosswords/41/",
+    "sourceId": "41",
+    "type": "external",
+    "license": "permission-required",
+    "originalCreated": "15:07 / 04-06-2018"
+  },
+  "extractedAt": "2026-11-10T07:22:13.053146+00:00",
+  "difficulty": "hard",
+  "difficultyEstimated": true,
+  "grid": {
+    "rows": 14,
+    "cols": 14,
+    "blocked": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        13
+      ],
+      [
+        1,
+        9
+      ],
+      [
+        1,
+        11
+      ],
+      [
+        1,
+        13
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        3,
+        13
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        5,
+        10
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        7,
+        9
+      ],
+      [
+        7,
+        10
+      ],
+      [
+        7,
+        12
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        8,
+        8
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        9,
+        11
+      ],
+      [
+        9,
+        13
+      ],
+      [
+        10,
+        0
+      ],
+      [
+        10,
+        2
+      ],
+      [
+        10,
+        4
+      ],
+      [
+        10,
+        6
+      ],
+      [
+        10,
+        8
+      ],
+      [
+        11,
+        8
+      ],
+      [
+        11,
+        10
+      ],
+      [
+        11,
+        11
+      ],
+      [
+        11,
+        13
+      ],
+      [
+        12,
+        1
+      ],
+      [
+        12,
+        3
+      ],
+      [
+        12,
+        5
+      ],
+      [
+        12,
+        6
+      ],
+      [
+        13,
+        7
+      ],
+      [
+        13,
+        8
+      ],
+      [
+        13,
+        10
+      ],
+      [
+        13,
+        11
+      ],
+      [
+        13,
+        13
+      ]
+    ]
+  },
+  "clues": [
+    {
+      "id": "4-across",
+      "number": 4,
+      "direction": "across",
+      "row": 0,
+      "col": 7,
+      "clue": "წკირი, რომელზეც თავდაპირველად თეთრი ფოსფორი იყო წასმული",
+      "answer": "ასანთი",
+      "length": 6
+    },
+    {
+      "id": "8-across",
+      "number": 8,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "clue": "პროვინცია ირანში, სადაც მე-17 საუკუნეში შაჰ აბასმა ათასობით ქართველი ჩაასახლა",
+      "answer": "ფერეიდანი",
+      "length": 9
+    },
+    {
+      "id": "9-across",
+      "number": 9,
+      "direction": "across",
+      "row": 2,
+      "col": 7,
+      "clue": "პრეზიდენტი, რომლის ბრძანებითაც დაიბომბა ჰიროსიმა და ნაგასაკი",
+      "answer": "ტრუმენი",
+      "length": 7
+    },
+    {
+      "id": "10-across",
+      "number": 10,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "clue": "მაიმუნის ერთადერთი სახეობა, რომელსაც დღისით ძინავს, ღამით კი აქტიურია",
+      "answer": "მირიკინი",
+      "length": 8
+    },
+    {
+      "id": "13-across",
+      "number": 13,
+      "direction": "across",
+      "row": 4,
+      "col": 8,
+      "clue": "ბუნების ნაყოფიერების მამაკაცური ღვთაება აღმ. საქართველოს მთიელთა წარმოდგენით",
+      "answer": "კვირია",
+      "length": 6
+    },
+    {
+      "id": "16-across",
+      "number": 16,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "clue": "ქალაქი ნიდერლანდებში",
+      "answer": "როტერდამი",
+      "length": 9
+    },
+    {
+      "id": "18-across",
+      "number": 18,
+      "direction": "across",
+      "row": 6,
+      "col": 8,
+      "clue": "პატარა ზომის კენგურუ",
+      "answer": "ვალაბი",
+      "length": 6
+    },
+    {
+      "id": "19-across",
+      "number": 19,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "clue": "ვეტერანი ბასკი მეკარე",
+      "answer": "ირიბარი",
+      "length": 7
+    },
+    {
+      "id": "24-across",
+      "number": 24,
+      "direction": "across",
+      "row": 8,
+      "col": 9,
+      "clue": "ორგანო, რომელიც ორი ნახევარსფეროსგან შედგება",
+      "answer": "ტვინი",
+      "length": 5
+    },
+    {
+      "id": "26-across",
+      "number": 26,
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "clue": "ცენტრალური ნერვული სისტემის ქრონიკული დაავადება",
+      "answer": "პარკინსონი",
+      "length": 10
+    },
+    {
+      "id": "27-across",
+      "number": 27,
+      "direction": "across",
+      "row": 10,
+      "col": 9,
+      "clue": "გემის დიდი ბადე",
+      "answer": "ტრალი",
+      "length": 5
+    },
+    {
+      "id": "28-across",
+      "number": 28,
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "clue": "წვეტიანი გეომეტრიული სხეული, რომლის ფუძეც არის კვადრატი",
+      "answer": "პირამიდა",
+      "length": 8
+    },
+    {
+      "id": "31-across",
+      "number": 31,
+      "direction": "across",
+      "row": 12,
+      "col": 7,
+      "clue": "სოფელი ქართლის რაიონში. ცნობილია VI საუკუნის ბაზილიკით",
+      "answer": "ურბნისი",
+      "length": 7
+    },
+    {
+      "id": "32-across",
+      "number": 32,
+      "direction": "across",
+      "row": 13,
+      "col": 0,
+      "clue": "მაგნატი, რომელსაც ცოლად ჰყავდა ჟაკლინ კენედი",
+      "answer": "ონასისი",
+      "length": 7
+    },
+    {
+      "id": "1-down",
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "clue": "რომელი თითი განსაზღვრავდა გლადიატორის ბედს არენაზე",
+      "answer": "ცერი",
+      "length": 4
+    },
+    {
+      "id": "2-down",
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "clue": "რისი ქალღმერთია ფორტუნა",
+      "answer": "ბედი",
+      "length": 4
+    },
+    {
+      "id": "3-down",
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "clue": "სიგრძის ძვ. ქართული ერთეული",
+      "answer": "ადლი",
+      "length": 4
+    },
+    {
+      "id": "4-down",
+      "number": 4,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "clue": "სიტყვის ნაწილი, ნიშნავს საწინააღმდეგოს",
+      "answer": "ანტი",
+      "length": 4
+    },
+    {
+      "id": "5-down",
+      "number": 5,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "clue": "მიმართვა ფრანგთა მეფისადმი",
+      "answer": "სირ",
+      "length": 3
+    },
+    {
+      "id": "6-down",
+      "number": 6,
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "clue": "რითიც სრულდება აკუპუნქტურა",
+      "answer": "ნემსი",
+      "length": 5
+    },
+    {
+      "id": "7-down",
+      "number": 7,
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "clue": "ჩინეთის “ცისფერი” მდინარე",
+      "answer": "იანძი",
+      "length": 5
+    },
+    {
+      "id": "10-down",
+      "number": 10,
+      "direction": "down",
+      "row": 3,
+      "col": 0,
+      "clue": "მ.ქ.კ. ანუ ... ქმედების კოეფიციენტი",
+      "answer": "მარგი",
+      "length": 5
+    },
+    {
+      "id": "11-down",
+      "number": 11,
+      "direction": "down",
+      "row": 3,
+      "col": 4,
+      "clue": "რა არის ხილის ნამდვილი ნაყოფი",
+      "answer": "კურკა",
+      "length": 5
+    },
+    {
+      "id": "12-down",
+      "number": 12,
+      "direction": "down",
+      "row": 3,
+      "col": 6,
+      "clue": "ბრიზი, ანუ ...",
+      "answer": "ნიავი",
+      "length": 5
+    },
+    {
+      "id": "13-down",
+      "number": 13,
+      "direction": "down",
+      "row": 4,
+      "col": 8,
+      "clue": "ერთადერთი ფრინველი, რომელსაც ნესტოები ნისკარტის წვეტთან აქვს მოთავსებული",
+      "answer": "კივი",
+      "length": 4
+    },
+    {
+      "id": "14-down",
+      "number": 14,
+      "direction": "down",
+      "row": 4,
+      "col": 11,
+      "clue": "რომელ ქალაქში შედგა ჟანა დ'არკის აუტოდაფე",
+      "answer": "რუანი",
+      "length": 5
+    },
+    {
+      "id": "15-down",
+      "number": 15,
+      "direction": "down",
+      "row": 4,
+      "col": 13,
+      "clue": "სომხეთის ძველი დედაქალაქი",
+      "answer": "ანისი",
+      "length": 5
+    },
+    {
+      "id": "17-down",
+      "number": 17,
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "clue": "ტაილანდური ენა",
+      "answer": "ტაი",
+      "length": 3
+    },
+    {
+      "id": "20-down",
+      "number": 20,
+      "direction": "down",
+      "row": 7,
+      "col": 1,
+      "clue": "სპილენძის შენადნობი კალასთან, იგივე ...",
+      "answer": "რვალი",
+      "length": 5
+    },
+    {
+      "id": "21-down",
+      "number": 21,
+      "direction": "down",
+      "row": 7,
+      "col": 3,
+      "clue": "ქართველი კომპოზიტორი ალექსანდრე ...",
+      "answer": "ბუკია",
+      "length": 5
+    },
+    {
+      "id": "22-down",
+      "number": 22,
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "clue": "სამხრეთ-აფრიკული ვალუტა",
+      "answer": "რენდი",
+      "length": 5
+    },
+    {
+      "id": "23-down",
+      "number": 23,
+      "direction": "down",
+      "row": 8,
+      "col": 7,
+      "clue": "მწერალი სიმბოლისტი ... ნადირაძე",
+      "answer": "კოლაუ",
+      "length": 5
+    },
+    {
+      "id": "24-down",
+      "number": 24,
+      "direction": "down",
+      "row": 8,
+      "col": 9,
+      "clue": "ბროწეულის ნარჩევი ქერქი, რომელიც შავ საღებავად გამოიყენება",
+      "answer": "ტიტიბი",
+      "length": 6
+    },
+    {
+      "id": "25-down",
+      "number": 25,
+      "direction": "down",
+      "row": 8,
+      "col": 12,
+      "clue": "მდინარე აფრიკის კონტინენტზე",
+      "answer": "ნილოსი",
+      "length": 6
+    },
+    {
+      "id": "28-down",
+      "number": 28,
+      "direction": "down",
+      "row": 11,
+      "col": 0,
+      "clue": "სიტყვის ნაწილი ნიშნავს ჩირქოვანს",
+      "answer": "პიო",
+      "length": 3
+    },
+    {
+      "id": "29-down",
+      "number": 29,
+      "direction": "down",
+      "row": 11,
+      "col": 2,
+      "clue": "რა მოტყდა თხა ამალთეას, საიდანაც გადმოედინებოდა ღვინო და თაფლი და გახდა სიუხვის სიმბოლო",
+      "answer": "რქა",
+      "length": 3
+    },
+    {
+      "id": "30-down",
+      "number": 30,
+      "direction": "down",
+      "row": 11,
+      "col": 4,
+      "clue": "მევიოლინე ვანესა ...",
+      "answer": "მეი",
+      "length": 3
+    }
+  ]
+}

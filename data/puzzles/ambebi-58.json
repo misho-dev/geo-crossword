@@ -1,0 +1,622 @@
+{
+  "schemaVersion": 1,
+  "id": "ambebi-58",
+  "title": "კროსვორდი № 58",
+  "source": {
+    "website": "ambebi.ge",
+    "url": "https://www.ambebi.ge/puzzle/crosswords/58/",
+    "sourceId": "58",
+    "type": "external",
+    "license": "permission-required",
+    "originalCreated": "16:23 / 09-08-2018"
+  },
+  "extractedAt": "2026-11-10T07:22:05.055037+00:00",
+  "difficulty": "hard",
+  "difficultyEstimated": true,
+  "grid": {
+    "rows": 14,
+    "cols": 14,
+    "blocked": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        10
+      ],
+      [
+        0,
+        12
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        10
+      ],
+      [
+        2,
+        12
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        10
+      ],
+      [
+        4,
+        12
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        9
+      ],
+      [
+        6,
+        11
+      ],
+      [
+        6,
+        13
+      ],
+      [
+        7,
+        7
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        8,
+        9
+      ],
+      [
+        8,
+        11
+      ],
+      [
+        8,
+        13
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        9,
+        13
+      ],
+      [
+        10,
+        0
+      ],
+      [
+        10,
+        2
+      ],
+      [
+        10,
+        4
+      ],
+      [
+        10,
+        6
+      ],
+      [
+        10,
+        8
+      ],
+      [
+        10,
+        10
+      ],
+      [
+        10,
+        12
+      ],
+      [
+        12,
+        0
+      ],
+      [
+        12,
+        2
+      ],
+      [
+        12,
+        4
+      ],
+      [
+        12,
+        6
+      ],
+      [
+        12,
+        8
+      ],
+      [
+        12,
+        10
+      ],
+      [
+        12,
+        12
+      ],
+      [
+        13,
+        8
+      ]
+    ]
+  },
+  "clues": [
+    {
+      "id": "3-across",
+      "number": 3,
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "clue": "რომელ საკვებ პროდუქტს ფარავენ ცვილით",
+      "answer": "ყველი",
+      "length": 5
+    },
+    {
+      "id": "8-across",
+      "number": 8,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "clue": "ინგლისელი ექიმი ედუარდ ..., რომელმაც პირველმა ჩაატარა აცრა ყვავილზე",
+      "answer": "ჯენერი",
+      "length": 6
+    },
+    {
+      "id": "9-across",
+      "number": 9,
+      "direction": "across",
+      "row": 1,
+      "col": 9,
+      "clue": "ბრაზილია - სამბა, საფრანგეთი - ფარანდოლა, ესპანეთი - ფლამენკო, არგენტინა - ...",
+      "answer": "ტანგო",
+      "length": 5
+    },
+    {
+      "id": "10-across",
+      "number": 10,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "clue": "აივენჰოს სატრფო",
+      "answer": "როენა",
+      "length": 5
+    },
+    {
+      "id": "11-across",
+      "number": 11,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "clue": "ეს აირი ჭაობში მცენარეების ლპობის შედეგად წარმოიქმნება, ამიტომ მას “ჭაობის აირს” უწოდებენ",
+      "answer": "მეთანი",
+      "length": 6
+    },
+    {
+      "id": "12-across",
+      "number": 12,
+      "direction": "across",
+      "row": 3,
+      "col": 9,
+      "clue": "მდინარე საფრანგეთში. ეკუთვნის ხმელთაშუა ზღვის აუზს",
+      "answer": "ლუარა",
+      "length": 5
+    },
+    {
+      "id": "13-across",
+      "number": 13,
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "clue": "ამ თვის სახელწოდება წარმოდგება რომაულ ქალღმერთ მაიადან, რომელიც განახლებული ბუნების ღვთაება იყო",
+      "answer": "მაისი",
+      "length": 5
+    },
+    {
+      "id": "14-across",
+      "number": 14,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "clue": "მარქაფა ცხენი",
+      "answer": "ჯინიბი",
+      "length": 6
+    },
+    {
+      "id": "17-across",
+      "number": 17,
+      "direction": "across",
+      "row": 5,
+      "col": 9,
+      "clue": "რეზო ესაძე ფილმში “ქალაქი ...”;",
+      "answer": "ანარა",
+      "length": 5
+    },
+    {
+      "id": "20-across",
+      "number": 20,
+      "direction": "across",
+      "row": 6,
+      "col": 6,
+      "clue": "შვედი მოჭადრაკე ქალი  ... კრამლინგი",
+      "answer": "პია",
+      "length": 3
+    },
+    {
+      "id": "22-across",
+      "number": 22,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "clue": "სახელმწიფო სამხ. ამერიკაში, რომლის სახელი ადგილობრივი ინდიელების ენაზე ნიშნავს “ჭრელი ფრინველების მდინარე”",
+      "answer": "ურუგვაი",
+      "length": 7
+    },
+    {
+      "id": "23-across",
+      "number": 23,
+      "direction": "across",
+      "row": 7,
+      "col": 8,
+      "clue": "ჯარი, რომელიც ზაფხულობით უბერავს ზღვიდან, ზამთრობით კი ხმელეთიდან",
+      "answer": "მუსონი",
+      "length": 6
+    },
+    {
+      "id": "24-across",
+      "number": 24,
+      "direction": "across",
+      "row": 8,
+      "col": 6,
+      "clue": "რუსი საბჭოთა ილუზიონისტი",
+      "answer": "კიო",
+      "length": 3
+    },
+    {
+      "id": "25-across",
+      "number": 25,
+      "direction": "across",
+      "row": 9,
+      "col": 2,
+      "clue": "ბერძნულ მითოლოგიაში მისი სიმბოლოა ღუზაზე დაყრდნობილი ქალი",
+      "answer": "იმედი",
+      "length": 5
+    },
+    {
+      "id": "28-across",
+      "number": 28,
+      "direction": "across",
+      "row": 9,
+      "col": 8,
+      "clue": "თვითნასწავლი მხატვრობა",
+      "answer": "ნაივი",
+      "length": 5
+    },
+    {
+      "id": "34-across",
+      "number": 34,
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "clue": "მედიცინაში: ელექტრომაგნიტური სხივებით კვლევის მეთოდი",
+      "answer": "რენტგენოგრაფია",
+      "length": 14
+    },
+    {
+      "id": "35-across",
+      "number": 35,
+      "direction": "across",
+      "row": 13,
+      "col": 0,
+      "clue": "ზღვის დონიდან ყველაზე მაღლა მდებარე ტბა",
+      "answer": "ტიტიკაკა",
+      "length": 8
+    },
+    {
+      "id": "36-across",
+      "number": 36,
+      "direction": "across",
+      "row": 13,
+      "col": 9,
+      "clue": "მსახიობი ... აბაშიძე",
+      "answer": "ლეილა",
+      "length": 5
+    },
+    {
+      "id": "1-down",
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "clue": "პრეზიდენტი, რომელიც ქალაქ დალასში მოკლეს",
+      "answer": "კენედი",
+      "length": 6
+    },
+    {
+      "id": "2-down",
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "clue": "ტბა სომხეთში, ბინადრობს თევზი იშხანი",
+      "answer": "სევანი",
+      "length": 6
+    },
+    {
+      "id": "3-down",
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "clue": "ნახევარკუნძული, რომელიც შემოსაზღვრავს აზოვის ზღვას",
+      "answer": "ყირიმი",
+      "length": 6
+    },
+    {
+      "id": "4-down",
+      "number": 4,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "clue": "რუსი პოეტი. ფრანგი მოცეკვავე ქალის აისოდორა დუნკანის ქმარი",
+      "answer": "ესენინი",
+      "length": 7
+    },
+    {
+      "id": "5-down",
+      "number": 5,
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "clue": "ბერძნულად ამ ქვეყნის სახელწოდება “ხბოების ქვეყანას” ნიშნავს",
+      "answer": "იტალია",
+      "length": 6
+    },
+    {
+      "id": "6-down",
+      "number": 6,
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "clue": "ქალაქი, რომელიც თურქეთში, 1923 წელს მონარქიის დამხობის შემდეგ, დედაქალაქი გახდა",
+      "answer": "ანკარა",
+      "length": 6
+    },
+    {
+      "id": "7-down",
+      "number": 7,
+      "direction": "down",
+      "row": 0,
+      "col": 13,
+      "clue": "ტყის “სანიტარი” ფრინველი",
+      "answer": "კოდალა",
+      "length": 6
+    },
+    {
+      "id": "14-down",
+      "number": 14,
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "clue": "ინგლისელი ფიზიკოსი, რომლის სახელი მუშაობის ერთეულს უწოდეს",
+      "answer": "ჯოული",
+      "length": 5
+    },
+    {
+      "id": "15-down",
+      "number": 15,
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "clue": "არამუსლიმანი ხალხის სამარხი შუა აზიაში",
+      "answer": "ნაუსი",
+      "length": 5
+    },
+    {
+      "id": "16-down",
+      "number": 16,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "clue": "რომანი “იზა” - ავტორი",
+      "answer": "ბუვიე",
+      "length": 5
+    },
+    {
+      "id": "18-down",
+      "number": 18,
+      "direction": "down",
+      "row": 5,
+      "col": 10,
+      "clue": "ბაღჩეული. ამზადებენ ჩირს",
+      "answer": "ნესვი",
+      "length": 5
+    },
+    {
+      "id": "19-down",
+      "number": 19,
+      "direction": "down",
+      "row": 5,
+      "col": 12,
+      "clue": "სად ისმის გონგის ხმა (სპორტული არენა)",
+      "answer": "რინგი",
+      "length": 5
+    },
+    {
+      "id": "20-down",
+      "number": 20,
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "clue": "წვეტიანი ადგილი გრაფიკზე",
+      "answer": "პიკი",
+      "length": 4
+    },
+    {
+      "id": "21-down",
+      "number": 21,
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "clue": "მზის ღმერთი ძველ ეგვიპტეში ...-რა",
+      "answer": "ამონ",
+      "length": 4
+    },
+    {
+      "id": "26-down",
+      "number": 26,
+      "direction": "down",
+      "row": 9,
+      "col": 3,
+      "clue": "ათი დმ ანუ",
+      "answer": "მეტრი",
+      "length": 5
+    },
+    {
+      "id": "27-down",
+      "number": 27,
+      "direction": "down",
+      "row": 9,
+      "col": 5,
+      "clue": "რა ერქვა მეფის რუსეთში სახელმწიფო დეპუტატის გასამრჯელოს",
+      "answer": "დიეტა",
+      "length": 5
+    },
+    {
+      "id": "29-down",
+      "number": 29,
+      "direction": "down",
+      "row": 9,
+      "col": 9,
+      "clue": "მომღერალი ... ლავინი",
+      "answer": "ავრილ",
+      "length": 5
+    },
+    {
+      "id": "30-down",
+      "number": 30,
+      "direction": "down",
+      "row": 9,
+      "col": 11,
+      "clue": "რისგან ამზადებენ ნაყინის “ჭიქებს”",
+      "answer": "ვაფლი",
+      "length": 5
+    },
+    {
+      "id": "31-down",
+      "number": 31,
+      "direction": "down",
+      "row": 10,
+      "col": 1,
+      "clue": "რომელი ფრინველის ბუმბულს ჰქვია გერმა",
+      "answer": "გედი",
+      "length": 4
+    },
+    {
+      "id": "32-down",
+      "number": 32,
+      "direction": "down",
+      "row": 10,
+      "col": 7,
+      "clue": "სულხან-საბა ორბელიანის ქართული ენის განმარტებითი ლექსიკონი “სიტყვის ...”",
+      "answer": "კონა",
+      "length": 4
+    },
+    {
+      "id": "33-down",
+      "number": 33,
+      "direction": "down",
+      "row": 10,
+      "col": 13,
+      "clue": "ინდონეზიის რომელ კუნძულზე მდებარეობს მსოფლიოში უდიდესი ბუდისტური ტაძარი ბორობუდური",
+      "answer": "იავა",
+      "length": 4
+    }
+  ]
+}

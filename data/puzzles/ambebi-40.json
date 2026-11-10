@@ -1,0 +1,524 @@
+{
+  "schemaVersion": 1,
+  "id": "ambebi-40",
+  "title": "კროსვორდი № 40",
+  "source": {
+    "website": "ambebi.ge",
+    "url": "https://www.ambebi.ge/puzzle/crosswords/40/",
+    "sourceId": "40",
+    "type": "external",
+    "license": "permission-required",
+    "originalCreated": "20:25 / 29-05-2018"
+  },
+  "extractedAt": "2026-11-10T07:22:13.055498+00:00",
+  "difficulty": "medium",
+  "difficultyEstimated": true,
+  "grid": {
+    "rows": 14,
+    "cols": 14,
+    "blocked": [
+      [
+        0,
+        1
+      ],
+      [
+        0,
+        3
+      ],
+      [
+        0,
+        5
+      ],
+      [
+        0,
+        7
+      ],
+      [
+        0,
+        13
+      ],
+      [
+        1,
+        9
+      ],
+      [
+        1,
+        11
+      ],
+      [
+        1,
+        13
+      ],
+      [
+        2,
+        1
+      ],
+      [
+        2,
+        3
+      ],
+      [
+        2,
+        5
+      ],
+      [
+        2,
+        7
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        3,
+        13
+      ],
+      [
+        4,
+        1
+      ],
+      [
+        4,
+        3
+      ],
+      [
+        4,
+        5
+      ],
+      [
+        4,
+        7
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        5,
+        11
+      ],
+      [
+        5,
+        13
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        7,
+        9
+      ],
+      [
+        7,
+        11
+      ],
+      [
+        7,
+        12
+      ],
+      [
+        7,
+        13
+      ],
+      [
+        8,
+        0
+      ],
+      [
+        8,
+        2
+      ],
+      [
+        8,
+        4
+      ],
+      [
+        8,
+        6
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        9,
+        8
+      ],
+      [
+        9,
+        10
+      ],
+      [
+        9,
+        12
+      ],
+      [
+        10,
+        0
+      ],
+      [
+        10,
+        2
+      ],
+      [
+        10,
+        4
+      ],
+      [
+        11,
+        6
+      ],
+      [
+        11,
+        8
+      ],
+      [
+        11,
+        10
+      ],
+      [
+        11,
+        12
+      ],
+      [
+        12,
+        0
+      ],
+      [
+        12,
+        2
+      ],
+      [
+        12,
+        4
+      ],
+      [
+        12,
+        6
+      ],
+      [
+        13,
+        5
+      ],
+      [
+        13,
+        6
+      ],
+      [
+        13,
+        8
+      ],
+      [
+        13,
+        10
+      ],
+      [
+        13,
+        12
+      ]
+    ]
+  },
+  "clues": [
+    {
+      "id": "5-across",
+      "number": 5,
+      "direction": "across",
+      "row": 0,
+      "col": 8,
+      "clue": "აფხაზი დრამატურგი სამსონ ...",
+      "answer": "ჭანბა",
+      "length": 5
+    },
+    {
+      "id": "8-across",
+      "number": 8,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "clue": "ოთარ იოსელიანის ფილმი",
+      "answer": "პასტორალი",
+      "length": 9
+    },
+    {
+      "id": "9-across",
+      "number": 9,
+      "direction": "across",
+      "row": 2,
+      "col": 8,
+      "clue": "ხოსრო მირზა ანუ ქართლის მეფე ...-ხანი",
+      "answer": "როსტომ",
+      "length": 6
+    },
+    {
+      "id": "10-across",
+      "number": 10,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "clue": "დოდეს პერსონაჟ ტარასკონელის სახელი",
+      "answer": "ტარტარენი",
+      "length": 9
+    },
+    {
+      "id": "11-across",
+      "number": 11,
+      "direction": "across",
+      "row": 4,
+      "col": 8,
+      "clue": "ლიბიის ექსლიდერი ... კადაფი",
+      "answer": "მუამარ",
+      "length": 6
+    },
+    {
+      "id": "12-across",
+      "number": 12,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "clue": "ფლეიტის მსგავსი საკრავი",
+      "answer": "ფლაჟოლეტი",
+      "length": 9
+    },
+    {
+      "id": "13-across",
+      "number": 13,
+      "direction": "across",
+      "row": 6,
+      "col": 8,
+      "clue": "ბათუმის მეჩეთი, რომელიც 40-იან წლებში დაიწვა",
+      "answer": "აზიზიე",
+      "length": 6
+    },
+    {
+      "id": "14-across",
+      "number": 14,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "clue": "ეთიოპიის ძველი სახელწოდება",
+      "answer": "აბისინია",
+      "length": 8
+    },
+    {
+      "id": "19-across",
+      "number": 19,
+      "direction": "across",
+      "row": 8,
+      "col": 7,
+      "clue": "ქალაქი ესპანეთში, ანდალუსიის დედაქალაქი",
+      "answer": "სევილია",
+      "length": 7
+    },
+    {
+      "id": "23-across",
+      "number": 23,
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "clue": "გამოჩენილი ფიზიკოსი და გამომგონებელი ... ტესლა",
+      "answer": "ნიკოლა",
+      "length": 6
+    },
+    {
+      "id": "24-across",
+      "number": 24,
+      "direction": "across",
+      "row": 10,
+      "col": 5,
+      "clue": "ცნობილი ესკადრილია მეორე მსოფლიოს ომში  “...-ნემანი”",
+      "answer": "ნორმანდია",
+      "length": 9
+    },
+    {
+      "id": "25-across",
+      "number": 25,
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "clue": "მსახიობი კოლინ ...",
+      "answer": "ფარელი",
+      "length": 6
+    },
+    {
+      "id": "26-across",
+      "number": 26,
+      "direction": "across",
+      "row": 12,
+      "col": 7,
+      "clue": "ციტრუსი, იგივე პომპელმუსი",
+      "answer": "თურინჯი",
+      "length": 7
+    },
+    {
+      "id": "27-across",
+      "number": 27,
+      "direction": "across",
+      "row": 13,
+      "col": 0,
+      "clue": "საგანგებო დავალება",
+      "answer": "მისია",
+      "length": 5
+    },
+    {
+      "id": "1-down",
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 0,
+      "clue": "წარწერა საფლავის ქვაზე",
+      "answer": "ეპიტაფია",
+      "length": 8
+    },
+    {
+      "id": "2-down",
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 2,
+      "clue": "კანის სნეულება",
+      "answer": "ფსორიაზი",
+      "length": 8
+    },
+    {
+      "id": "3-down",
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 4,
+      "clue": "იგივე რადარი",
+      "answer": "ლოკატორი",
+      "length": 8
+    },
+    {
+      "id": "4-down",
+      "number": 4,
+      "direction": "down",
+      "row": 0,
+      "col": 6,
+      "clue": "მაჭანკალი - სამეგრელოში",
+      "answer": "მარებელი",
+      "length": 8
+    },
+    {
+      "id": "5-down",
+      "number": 5,
+      "direction": "down",
+      "row": 0,
+      "col": 8,
+      "clue": "ქიაჩელი - გვადი ბიგვას ერთ-ერთი ვაჟი",
+      "answer": "ჭირიმია",
+      "length": 7
+    },
+    {
+      "id": "6-down",
+      "number": 6,
+      "direction": "down",
+      "row": 0,
+      "col": 10,
+      "clue": "სოკოს საწინააღმდეგო პრეპარატი",
+      "answer": "ნისტატინი",
+      "length": 9
+    },
+    {
+      "id": "7-down",
+      "number": 7,
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "clue": "კეთილსურნელება",
+      "answer": "არომატი",
+      "length": 7
+    },
+    {
+      "id": "15-down",
+      "number": 15,
+      "direction": "down",
+      "row": 7,
+      "col": 1,
+      "clue": "იგივე ვეტერინარი",
+      "answer": "ბეითალი",
+      "length": 7
+    },
+    {
+      "id": "16-down",
+      "number": 16,
+      "direction": "down",
+      "row": 7,
+      "col": 3,
+      "clue": "ცენტრალური მცველი ფეხბურთში",
+      "answer": "სტოპერი",
+      "length": 7
+    },
+    {
+      "id": "17-down",
+      "number": 17,
+      "direction": "down",
+      "row": 7,
+      "col": 5,
+      "clue": "“დავით აღმაშენებლის” პერსონაჟი ... ბაკურიანი",
+      "answer": "ნიანია",
+      "length": 6
+    },
+    {
+      "id": "18-down",
+      "number": 18,
+      "direction": "down",
+      "row": 7,
+      "col": 7,
+      "clue": "სოფელი თეთრიწყაროს რაიონში",
+      "answer": "ასურეთი",
+      "length": 7
+    },
+    {
+      "id": "20-down",
+      "number": 20,
+      "direction": "down",
+      "row": 8,
+      "col": 9,
+      "clue": "პოტენციის ასამაღლებელი პრეპარატი",
+      "answer": "ვიაგრა",
+      "length": 6
+    },
+    {
+      "id": "21-down",
+      "number": 21,
+      "direction": "down",
+      "row": 8,
+      "col": 11,
+      "clue": "ცდა, მოცდა",
+      "answer": "ლოდინი",
+      "length": 6
+    },
+    {
+      "id": "22-down",
+      "number": 22,
+      "direction": "down",
+      "row": 8,
+      "col": 13,
+      "clue": "ნელი ტემპი მუსიკაში",
+      "answer": "ადაჟიო",
+      "length": 6
+    }
+  ]
+}

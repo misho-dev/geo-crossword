@@ -1,0 +1,574 @@
+{
+  "schemaVersion": 1,
+  "id": "ambebi-57",
+  "title": "კროსვორდი № 57",
+  "source": {
+    "website": "ambebi.ge",
+    "url": "https://www.ambebi.ge/puzzle/crosswords/57/",
+    "sourceId": "57",
+    "type": "external",
+    "license": "permission-required",
+    "originalCreated": "10:47 / 06-08-2018"
+  },
+  "extractedAt": "2026-11-10T07:22:05.057869+00:00",
+  "difficulty": "medium",
+  "difficultyEstimated": true,
+  "grid": {
+    "rows": 14,
+    "cols": 14,
+    "blocked": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        1,
+        6
+      ],
+      [
+        1,
+        8
+      ],
+      [
+        1,
+        10
+      ],
+      [
+        1,
+        12
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        8
+      ],
+      [
+        3,
+        10
+      ],
+      [
+        3,
+        12
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        12
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        8
+      ],
+      [
+        5,
+        10
+      ],
+      [
+        6,
+        1
+      ],
+      [
+        6,
+        3
+      ],
+      [
+        6,
+        5
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        6,
+        12
+      ],
+      [
+        6,
+        13
+      ],
+      [
+        7,
+        9
+      ],
+      [
+        7,
+        11
+      ],
+      [
+        8,
+        1
+      ],
+      [
+        8,
+        3
+      ],
+      [
+        8,
+        5
+      ],
+      [
+        8,
+        13
+      ],
+      [
+        9,
+        6
+      ],
+      [
+        9,
+        7
+      ],
+      [
+        9,
+        9
+      ],
+      [
+        9,
+        11
+      ],
+      [
+        9,
+        13
+      ],
+      [
+        10,
+        1
+      ],
+      [
+        10,
+        3
+      ],
+      [
+        10,
+        5
+      ],
+      [
+        11,
+        5
+      ],
+      [
+        11,
+        7
+      ],
+      [
+        11,
+        9
+      ],
+      [
+        11,
+        11
+      ],
+      [
+        11,
+        13
+      ],
+      [
+        12,
+        1
+      ],
+      [
+        12,
+        2
+      ],
+      [
+        12,
+        3
+      ],
+      [
+        12,
+        11
+      ],
+      [
+        12,
+        13
+      ],
+      [
+        13,
+        5
+      ],
+      [
+        13,
+        7
+      ],
+      [
+        13,
+        9
+      ],
+      [
+        13,
+        10
+      ]
+    ]
+  },
+  "clues": [
+    {
+      "id": "3-across",
+      "number": 3,
+      "direction": "across",
+      "row": 0,
+      "col": 5,
+      "clue": "პიგმენტი, რომელიც მცენარის ფოთლებს მწვანე ფერს აძლევს",
+      "answer": "ქლოროფილი",
+      "length": 9
+    },
+    {
+      "id": "8-across",
+      "number": 8,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "clue": "ზღვის ძუძუმწოვარი, რომლის ულვაშები ქალის კორსეტებისთვის გამოიყენებოდა",
+      "answer": "ვეშაპი",
+      "length": 6
+    },
+    {
+      "id": "9-across",
+      "number": 9,
+      "direction": "across",
+      "row": 2,
+      "col": 5,
+      "clue": "კუნძული ინდოეთის ოკეანეში",
+      "answer": "ზანზიბარი",
+      "length": 9
+    },
+    {
+      "id": "10-across",
+      "number": 10,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "clue": "რეჟისორი, რომლის მუზა ჯულიეტა მაზინა იყო",
+      "answer": "ფელინი",
+      "length": 6
+    },
+    {
+      "id": "11-across",
+      "number": 11,
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "clue": "გრძელტარიანი ჩიბუხი",
+      "answer": "ყალიონი",
+      "length": 7
+    },
+    {
+      "id": "12-across",
+      "number": 12,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "clue": "ძველად საქართველოში ამ ცხოველს აქლემ-ვეფხვს უწოდებდნენ",
+      "answer": "ჟირაფი",
+      "length": 6
+    },
+    {
+      "id": "15-across",
+      "number": 15,
+      "direction": "across",
+      "row": 5,
+      "col": 11,
+      "clue": "თევზის ძვალი",
+      "answer": "ფხა",
+      "length": 3
+    },
+    {
+      "id": "17-across",
+      "number": 17,
+      "direction": "across",
+      "row": 6,
+      "col": 8,
+      "clue": "რომენ როლანი “... ბრუნიონი”",
+      "answer": "კოლა",
+      "length": 4
+    },
+    {
+      "id": "19-across",
+      "number": 19,
+      "direction": "across",
+      "row": 7,
+      "col": 0,
+      "clue": "დასის მიერ სპექტაკლის სასინჯი შესრულება",
+      "answer": "რეპეტიცია",
+      "length": 9
+    },
+    {
+      "id": "21-across",
+      "number": 21,
+      "direction": "across",
+      "row": 7,
+      "col": 12,
+      "clue": "სრუტე ...-დე-კალე",
+      "answer": "პა",
+      "length": 2
+    },
+    {
+      "id": "22-across",
+      "number": 22,
+      "direction": "across",
+      "row": 8,
+      "col": 6,
+      "clue": "ევროპის ყველაზე მაღალი მწვერვალი",
+      "answer": "იალბუზი",
+      "length": 7
+    },
+    {
+      "id": "23-across",
+      "number": 23,
+      "direction": "across",
+      "row": 9,
+      "col": 0,
+      "clue": "რომაელი იმპერატორი, რომლის კოლოსალური მონუმენტის გამო რომის ამფითეატრს კოლიზეუმი უწოდეს",
+      "answer": "ნერონი",
+      "length": 6
+    },
+    {
+      "id": "24-across",
+      "number": 24,
+      "direction": "across",
+      "row": 10,
+      "col": 6,
+      "clue": "კუნძული-სახელმწიფო სპარსეთის ყურეში",
+      "answer": "ბაჰრეინი",
+      "length": 8
+    },
+    {
+      "id": "25-across",
+      "number": 25,
+      "direction": "across",
+      "row": 11,
+      "col": 0,
+      "clue": "ვისი სასახლეა ვალჰალა სკანდინავიურ მითოლოგიაში",
+      "answer": "ოდინი",
+      "length": 5
+    },
+    {
+      "id": "26-across",
+      "number": 26,
+      "direction": "across",
+      "row": 12,
+      "col": 4,
+      "clue": "ესპანეთისა და საერთაშორისო მუშათა მოძრაობის მოღვაწე ... იბარური",
+      "answer": "დოლორეს",
+      "length": 7
+    },
+    {
+      "id": "27-across",
+      "number": 27,
+      "direction": "across",
+      "row": 13,
+      "col": 0,
+      "clue": "ლონდონის პოლიციის ცენტრალური სამმართველო სკოტლენდ-...",
+      "answer": "იარდი",
+      "length": 5
+    },
+    {
+      "id": "28-across",
+      "number": 28,
+      "direction": "across",
+      "row": 13,
+      "col": 11,
+      "clue": "გადაშენებული გიგანტური ფრინველი",
+      "answer": "მოა",
+      "length": 3
+    },
+    {
+      "id": "1-down",
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "clue": "ნაგებობა ჩინეთში, რომელიც კოსმოსიდან ჩანს",
+      "answer": "კედელი",
+      "length": 6
+    },
+    {
+      "id": "2-down",
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "clue": "ფილიპინების დედაქალაქი",
+      "answer": "მანილა",
+      "length": 6
+    },
+    {
+      "id": "3-down",
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "clue": "წარსულში, კახეთის რომელ მხარეს უწოდებდნენ კამბეჩოვანს",
+      "answer": "ქიზიყი",
+      "length": 6
+    },
+    {
+      "id": "4-down",
+      "number": 4,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "clue": "მსახიობი ... მუტი, მისი ნამდვილი გვარია რიველი",
+      "answer": "ორნელა",
+      "length": 6
+    },
+    {
+      "id": "5-down",
+      "number": 5,
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "clue": "რომელი მდინარის ველია ლიანოსი",
+      "answer": "ორინოკო",
+      "length": 7
+    },
+    {
+      "id": "6-down",
+      "number": 6,
+      "direction": "down",
+      "row": 0,
+      "col": 11,
+      "clue": "აფხაზი საბჭოთა ეთნოგრაფი, პროფესორი შალვა ...",
+      "answer": "ინალიფა",
+      "length": 7
+    },
+    {
+      "id": "7-down",
+      "number": 7,
+      "direction": "down",
+      "row": 0,
+      "col": 13,
+      "clue": "მშვიდი განწყობა",
+      "answer": "იდილია",
+      "length": 6
+    },
+    {
+      "id": "12-down",
+      "number": 12,
+      "direction": "down",
+      "row": 5,
+      "col": 0,
+      "clue": "დიდი ფიგურული შანდალი რამდენიმე სანთლისათვის",
+      "answer": "ჟირანდოლი",
+      "length": 9
+    },
+    {
+      "id": "13-down",
+      "number": 13,
+      "direction": "down",
+      "row": 5,
+      "col": 2,
+      "clue": "საბუხჰალტრო ტერმინი, ნიშნავს ჯამის გადატანას მეორე გვერდზე",
+      "answer": "რეპორტი",
+      "length": 7
+    },
+    {
+      "id": "14-down",
+      "number": 14,
+      "direction": "down",
+      "row": 5,
+      "col": 4,
+      "clue": "აქროლადი დამცავი ნივთიერება, რომელსაც გამოყოფს ზოგიერთი მცენარე (ნიორი, ხახვი, პირშუშხა) და რომელიც თრგუნავს ბაქტერიების განვითარებას",
+      "answer": "ფიტონციდი",
+      "length": 9
+    },
+    {
+      "id": "16-down",
+      "number": 16,
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "clue": "დიუმა. “... წლის შემდეგ”",
+      "answer": "ოცი",
+      "length": 3
+    },
+    {
+      "id": "17-down",
+      "number": 17,
+      "direction": "down",
+      "row": 6,
+      "col": 8,
+      "clue": "უდაბნო სამხრეთ აფრიკაში",
+      "answer": "კალაჰარი",
+      "length": 8
+    },
+    {
+      "id": "18-down",
+      "number": 18,
+      "direction": "down",
+      "row": 6,
+      "col": 10,
+      "clue": "ინგლისელი მსახიობი ... ოლივიე",
+      "answer": "ლოურენს",
+      "length": 7
+    },
+    {
+      "id": "20-down",
+      "number": 20,
+      "direction": "down",
+      "row": 7,
+      "col": 7,
+      "clue": "კომპოზიტორი ილია, იგივე ... კარგარეთელი",
+      "answer": "ია",
+      "length": 2
+    },
+    {
+      "id": "21-down",
+      "number": 21,
+      "direction": "down",
+      "row": 7,
+      "col": 12,
+      "clue": "ჰარვი კეიტელი და ჰოლი ჰარტნერი “ოსკაროსან” ფილმში",
+      "answer": "პიანინო",
+      "length": 7
+    },
+    {
+      "id": "24-down",
+      "number": 24,
+      "direction": "down",
+      "row": 10,
+      "col": 6,
+      "clue": "ტელეფონის გამომგონებელი ალექსანდრე ...",
+      "answer": "ბელი",
+      "length": 4
+    }
+  ]
+}

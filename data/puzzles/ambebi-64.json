@@ -1,0 +1,680 @@
+{
+  "schemaVersion": 1,
+  "id": "ambebi-64",
+  "title": "კროსვორდი № 64",
+  "source": {
+    "website": "ambebi.ge",
+    "url": "https://www.ambebi.ge/puzzle/crosswords/64/",
+    "sourceId": "64",
+    "type": "external",
+    "license": "permission-required",
+    "originalCreated": "16:26 / 20-09-2018"
+  },
+  "extractedAt": "2026-11-10T07:22:05.049519+00:00",
+  "difficulty": "hard",
+  "difficultyEstimated": true,
+  "grid": {
+    "rows": 14,
+    "cols": 14,
+    "blocked": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        2
+      ],
+      [
+        0,
+        4
+      ],
+      [
+        0,
+        6
+      ],
+      [
+        0,
+        8
+      ],
+      [
+        0,
+        10
+      ],
+      [
+        1,
+        11
+      ],
+      [
+        1,
+        13
+      ],
+      [
+        2,
+        0
+      ],
+      [
+        2,
+        2
+      ],
+      [
+        2,
+        4
+      ],
+      [
+        2,
+        6
+      ],
+      [
+        2,
+        8
+      ],
+      [
+        2,
+        10
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        3,
+        11
+      ],
+      [
+        3,
+        13
+      ],
+      [
+        4,
+        0
+      ],
+      [
+        4,
+        2
+      ],
+      [
+        4,
+        4
+      ],
+      [
+        4,
+        11
+      ],
+      [
+        5,
+        6
+      ],
+      [
+        5,
+        9
+      ],
+      [
+        5,
+        12
+      ],
+      [
+        6,
+        0
+      ],
+      [
+        6,
+        2
+      ],
+      [
+        6,
+        4
+      ],
+      [
+        6,
+        7
+      ],
+      [
+        7,
+        1
+      ],
+      [
+        7,
+        3
+      ],
+      [
+        7,
+        5
+      ],
+      [
+        7,
+        8
+      ],
+      [
+        7,
+        10
+      ],
+      [
+        7,
+        12
+      ],
+      [
+        8,
+        7
+      ],
+      [
+        9,
+        1
+      ],
+      [
+        9,
+        3
+      ],
+      [
+        9,
+        5
+      ],
+      [
+        9,
+        9
+      ],
+      [
+        9,
+        12
+      ],
+      [
+        9,
+        13
+      ],
+      [
+        10,
+        7
+      ],
+      [
+        10,
+        11
+      ],
+      [
+        10,
+        13
+      ],
+      [
+        11,
+        1
+      ],
+      [
+        11,
+        3
+      ],
+      [
+        11,
+        5
+      ],
+      [
+        11,
+        9
+      ],
+      [
+        12,
+        0
+      ],
+      [
+        12,
+        7
+      ],
+      [
+        12,
+        9
+      ],
+      [
+        12,
+        11
+      ],
+      [
+        12,
+        13
+      ],
+      [
+        13,
+        0
+      ],
+      [
+        13,
+        1
+      ],
+      [
+        13,
+        3
+      ],
+      [
+        13,
+        4
+      ],
+      [
+        13,
+        6
+      ]
+    ]
+  },
+  "clues": [
+    {
+      "id": "6-across",
+      "number": 6,
+      "direction": "across",
+      "row": 0,
+      "col": 11,
+      "clue": "\"ხმალზე უფრო ძლიერად\" მჭრელი",
+      "answer": "ენა",
+      "length": 3
+    },
+    {
+      "id": "8-across",
+      "number": 8,
+      "direction": "across",
+      "row": 1,
+      "col": 0,
+      "clue": "პროცესი, რომელიც მიმდინარეობს ფოთოლში და რომლის დროსაც წარმოიქმნება ჟანგბადი",
+      "answer": "ფოტოსინთეზი",
+      "length": 11
+    },
+    {
+      "id": "9-across",
+      "number": 9,
+      "direction": "across",
+      "row": 2,
+      "col": 11,
+      "clue": "არაბი სარდალი მურვან ..., რომელიც 735 წელს შემოესია საქართველოს",
+      "answer": "ყრუ",
+      "length": 3
+    },
+    {
+      "id": "10-across",
+      "number": 10,
+      "direction": "across",
+      "row": 3,
+      "col": 0,
+      "clue": "სავანის ბინადარი ცხოველი, რომელსაც “სავანის სანიტარს” უწოდებენ",
+      "answer": "აფთარი",
+      "length": 6
+    },
+    {
+      "id": "11-across",
+      "number": 11,
+      "direction": "across",
+      "row": 3,
+      "col": 7,
+      "clue": "მსახიობი ... პაჩინო",
+      "answer": "ალ",
+      "length": 2
+    },
+    {
+      "id": "14-across",
+      "number": 14,
+      "direction": "across",
+      "row": 4,
+      "col": 5,
+      "clue": "მსახიობი სოფი შიკოლონე, რომლის პირველი ფსევდონიმი იყო ლაზერი. რა ფსევდონიმით ვიცნობთ მას",
+      "answer": "ლორენი",
+      "length": 6
+    },
+    {
+      "id": "15-across",
+      "number": 15,
+      "direction": "across",
+      "row": 4,
+      "col": 12,
+      "clue": "რაც ... გერგება, ... შეგერგება",
+      "answer": "არ",
+      "length": 2
+    },
+    {
+      "id": "17-across",
+      "number": 17,
+      "direction": "across",
+      "row": 5,
+      "col": 0,
+      "clue": "ყვავი - ბახალა, მტრედი - ხუნდი, ... - მართვე",
+      "answer": "არწივი",
+      "length": 6
+    },
+    {
+      "id": "18-across",
+      "number": 18,
+      "direction": "across",
+      "row": 5,
+      "col": 7,
+      "clue": "მსახიობი ... ჰათაუეი",
+      "answer": "ენ",
+      "length": 2
+    },
+    {
+      "id": "19-across",
+      "number": 19,
+      "direction": "across",
+      "row": 5,
+      "col": 10,
+      "clue": "ფანჯიკიძე. “მეშვიდე ...”",
+      "answer": "ცა",
+      "length": 2
+    },
+    {
+      "id": "21-across",
+      "number": 21,
+      "direction": "across",
+      "row": 6,
+      "col": 5,
+      "clue": "სპარტელების დევიზი: “ფარით, ... ფარზე”",
+      "answer": "ან",
+      "length": 2
+    },
+    {
+      "id": "23-across",
+      "number": 23,
+      "direction": "across",
+      "row": 6,
+      "col": 8,
+      "clue": "კათიონის საპირისპირო მუხტის მქონე ნაწილაკი",
+      "answer": "ანიონი",
+      "length": 6
+    },
+    {
+      "id": "28-across",
+      "number": 28,
+      "direction": "across",
+      "row": 7,
+      "col": 6,
+      "clue": "ქურუმი, რომელსაც ტუტანხამონის მკვლელობას აბრალებენ",
+      "answer": "აი",
+      "length": 2
+    },
+    {
+      "id": "29-across",
+      "number": 29,
+      "direction": "across",
+      "row": 8,
+      "col": 0,
+      "clue": "რომელი ქალაქის სახელით არის ცნობილი კრამიტი, რომელიც ბათუმში ჩამოჰქონდათ ცარიელ გემებს ბალასტის სახით",
+      "answer": "მარსელი",
+      "length": 7
+    },
+    {
+      "id": "30-across",
+      "number": 30,
+      "direction": "across",
+      "row": 8,
+      "col": 8,
+      "clue": "დედამიწის შიდა გარსი",
+      "answer": "მანტია",
+      "length": 6
+    },
+    {
+      "id": "32-across",
+      "number": 32,
+      "direction": "across",
+      "row": 9,
+      "col": 6,
+      "clue": "ფანტასტი მწერალი ... ბრედბერი",
+      "answer": "რეი",
+      "length": 3
+    },
+    {
+      "id": "33-across",
+      "number": 33,
+      "direction": "across",
+      "row": 9,
+      "col": 10,
+      "clue": "ყვავილი, რომლის ფოთლის წვენი ქავილის გრძნობას აამებს",
+      "answer": "ია",
+      "length": 2
+    },
+    {
+      "id": "34-across",
+      "number": 34,
+      "direction": "across",
+      "row": 10,
+      "col": 0,
+      "clue": "\"კუკარაჩას\" პერსონაჟი",
+      "answer": "მურტალო",
+      "length": 7
+    },
+    {
+      "id": "35-across",
+      "number": 35,
+      "direction": "across",
+      "row": 10,
+      "col": 8,
+      "clue": "ენდრიუ ლოიუდ ვებერის ...-ოპერა “იესო ქრისტე სუპერვარსკვლავი",
+      "answer": "როკ",
+      "length": 3
+    },
+    {
+      "id": "37-across",
+      "number": 37,
+      "direction": "across",
+      "row": 11,
+      "col": 6,
+      "clue": "კედლის შანდალი",
+      "answer": "ბრა",
+      "length": 3
+    },
+    {
+      "id": "38-across",
+      "number": 38,
+      "direction": "across",
+      "row": 11,
+      "col": 10,
+      "clue": "განმუხტვა დამუხტულ ღრუბლებს შორის",
+      "answer": "ელვა",
+      "length": 4
+    },
+    {
+      "id": "39-across",
+      "number": 39,
+      "direction": "across",
+      "row": 12,
+      "col": 1,
+      "clue": "რუკების კრებული",
+      "answer": "ატლასი",
+      "length": 6
+    },
+    {
+      "id": "41-across",
+      "number": 41,
+      "direction": "across",
+      "row": 13,
+      "col": 7,
+      "clue": "პირველი ქართველი ქრისტიანი მეფე",
+      "answer": "მირიანი",
+      "length": 7
+    },
+    {
+      "id": "1-down",
+      "number": 1,
+      "direction": "down",
+      "row": 0,
+      "col": 1,
+      "clue": "ქიმიური ელემენტი, რომელსაც ახასიათებს ნათება",
+      "answer": "ფოსფორი",
+      "length": 7
+    },
+    {
+      "id": "2-down",
+      "number": 2,
+      "direction": "down",
+      "row": 0,
+      "col": 3,
+      "clue": "მწერალი ალბერტო ...",
+      "answer": "მორავია",
+      "length": 7
+    },
+    {
+      "id": "3-down",
+      "number": 3,
+      "direction": "down",
+      "row": 0,
+      "col": 5,
+      "clue": "კუნძული, სადაც წარმოიშვა მაფია",
+      "answer": "სიცილია",
+      "length": 7
+    },
+    {
+      "id": "4-down",
+      "number": 4,
+      "direction": "down",
+      "row": 0,
+      "col": 7,
+      "clue": "ციური სხეული, საიდანაც ჩამოიტანეს რეგოლიტი",
+      "answer": "მთვარე",
+      "length": 6
+    },
+    {
+      "id": "5-down",
+      "number": 5,
+      "direction": "down",
+      "row": 0,
+      "col": 9,
+      "clue": "ჰელიუმი ჯერ ამ ვარსკვლავზე აღმოაჩინეს, შემდეგ კი დედამიწაზე",
+      "answer": "მზე",
+      "length": 3
+    },
+    {
+      "id": "7-down",
+      "number": 7,
+      "direction": "down",
+      "row": 0,
+      "col": 12,
+      "clue": "სელაპის სახეობა, რომელიც კასპიის ზღვაში ბინადრობს",
+      "answer": "ნერპა",
+      "length": 5
+    },
+    {
+      "id": "12-down",
+      "number": 12,
+      "direction": "down",
+      "row": 3,
+      "col": 8,
+      "clue": "მდინარე ციმბირში, რომელიც ლაპტევების ზღვაში ჩაედინება",
+      "answer": "ლენა",
+      "length": 4
+    },
+    {
+      "id": "13-down",
+      "number": 13,
+      "direction": "down",
+      "row": 3,
+      "col": 10,
+      "clue": ". საზეიმო ტექსტი, რომელიც ექიმებს ჰიპოკრატესთან აკავშირებს",
+      "answer": "ფიცი",
+      "length": 4
+    },
+    {
+      "id": "16-down",
+      "number": 16,
+      "direction": "down",
+      "row": 4,
+      "col": 13,
+      "clue": "ქიმიური ელემენტი, რომელსაც სისხლში ჟანგბადი გადააქვს",
+      "answer": "რკინა",
+      "length": 5
+    },
+    {
+      "id": "20-down",
+      "number": 20,
+      "direction": "down",
+      "row": 5,
+      "col": 11,
+      "clue": "ყველაზე მსხვილი სისხლძარღვი",
+      "answer": "აორტა",
+      "length": 5
+    },
+    {
+      "id": "22-down",
+      "number": 22,
+      "direction": "down",
+      "row": 6,
+      "col": 6,
+      "clue": "კენიის დედაქალაქი",
+      "answer": "ნაირობი",
+      "length": 7
+    },
+    {
+      "id": "24-down",
+      "number": 24,
+      "direction": "down",
+      "row": 6,
+      "col": 9,
+      "clue": "ქართველების დასახლება ბაიკალ-ამურის მაგისტრალზე ...-გრუზინსკაია",
+      "answer": "ნია",
+      "length": 3
+    },
+    {
+      "id": "25-down",
+      "number": 25,
+      "direction": "down",
+      "row": 7,
+      "col": 0,
+      "clue": "მაჰმადიანთა სულიერი წინამძღოლი",
+      "answer": "იმამი",
+      "length": 5
+    },
+    {
+      "id": "26-down",
+      "number": 26,
+      "direction": "down",
+      "row": 7,
+      "col": 2,
+      "clue": "მთა, საიდანაც მტრედმა ნოეს კიდობანზე ზეთისხილის რტო მოიტანა",
+      "answer": "არარატი",
+      "length": 7
+    },
+    {
+      "id": "27-down",
+      "number": 27,
+      "direction": "down",
+      "row": 7,
+      "col": 4,
+      "clue": "ამხანაგი ჩე ანუ ერნესტო რაფაელ ... დე ლა სერნა",
+      "answer": "გევარა",
+      "length": 6
+    },
+    {
+      "id": "30-down",
+      "number": 30,
+      "direction": "down",
+      "row": 8,
+      "col": 8,
+      "clue": "ოპტიკური მოვლენა უდაბნოში",
+      "answer": "მირაჟი",
+      "length": 6
+    },
+    {
+      "id": "31-down",
+      "number": 31,
+      "direction": "down",
+      "row": 8,
+      "col": 10,
+      "clue": "ლითონი, რომლითაც, ელექტროლიზის მეშვეობით, რკინის საგნებს ფარავენ",
+      "answer": "ნიკელი",
+      "length": 6
+    },
+    {
+      "id": "36-down",
+      "number": 36,
+      "direction": "down",
+      "row": 10,
+      "col": 12,
+      "clue": "მსახიობი ... მაკგრეგორი",
+      "answer": "ევან",
+      "length": 4
+    },
+    {
+      "id": "40-down",
+      "number": 40,
+      "direction": "down",
+      "row": 12,
+      "col": 5,
+      "clue": "ხურდა ფული საფრანგეთში",
+      "answer": "სუ",
+      "length": 2
+    }
+  ]
+}
